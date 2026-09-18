@@ -1,0 +1,9 @@
+# Runtime dependencies for fetch_references.py
+#
+#   pip install -r requirements.txt
+#
+# requests is required; tqdm is optional and only improves the progress bars.
+# The script falls back to a built-in progress display if tqdm is absent.
+
+requests>=2.28
+tqdm>=4.64          # optional

@@ -1,0 +1,14 @@
+# Search output directories created by fetch_references.py
+search_*/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
