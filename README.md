@@ -3,9 +3,9 @@
 Reproducible literature search accompanying the review article
 
 > **Computational pathology approaches to tumour microenvironment characterisation in colorectal cancer**
+>
 > Vahid Anari, Eva Budinská, Vlad Popovici
-> RECETOX, Faculty of Science, Masaryk University, Brno, Czech Republic
-> *Molecular Aspects of Medicine* (2026), special issue *Data-Driven Diagnostics: Digital Pathology in the Age of AI*
+> [preprint](https://hal.science/hal-05709270v1).
 
 ---
 

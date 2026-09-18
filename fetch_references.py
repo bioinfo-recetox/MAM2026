@@ -93,19 +93,24 @@ except ImportError:
 
 
 # =============================================================================
-# REFERENCE RUN — counts obtained by the authors
+# REFERENCE RUN -- counts obtained by the authors
 # =============================================================================
 
 REFERENCE_RUN = {
-    "date": "2026-07-28",
-    "union_records": None,        # <- set from your own final run before release
+    "date": "2026-09-15",
+    "union_records": 9228,        
     "candidates_after_screening": 785,
     "studies_selected_manually": 49,
 }
 
 
+###############################################################################
+#  D O   N O T   C H A N G E   T H E   R U L E S   B E L O W   U N L E S S    
+#  Y O U   K N O W   W H A T   Y O U   D O!!!
+###############################################################################
+
 # =============================================================================
-# STAGE 1 — SEARCH STRATEGY
+# STAGE 1 -- SEARCH STRATEGY
 # =============================================================================
 # The relevant literature is produced by several research communities that
 # describe overlapping work in almost disjoint vocabularies. No single compact
@@ -214,7 +219,7 @@ UNION_QUERY = "((" + ") OR (".join(STRANDS.values()) + "))"
 
 
 # =============================================================================
-# STAGE 3 — SCREENING RULES
+# STAGE 3 -- SCREENING RULES
 # =============================================================================
 # Applied to the title and abstract of every harvested record, case-insensitive.
 #
@@ -657,7 +662,7 @@ def write_reading_list(path: str, records: list[dict]) -> None:
     ordered = sorted(records, key=lambda r: (r.get("year", ""), r.get("title", "")))
     with open(path, "w", encoding="utf-8") as fh:
         fh.write("Candidate records for manual screening\n")
-        fh.write(f"Generated {datetime.date.today().isoformat()} — "
+        fh.write(f"Generated {datetime.date.today().isoformat()} -- "
                  f"{len(ordered)} records\n")
         fh.write("=" * 79 + "\n\n")
         for index, record in enumerate(ordered, 1):
@@ -673,19 +678,19 @@ def write_summary(path: str, strand_hits: dict, n_union: int, n_kept: int,
                   n_excluded: int, stats: list[dict]) -> None:
     lines = []
     add = lines.append
-    add("Reproducible literature search — summary")
+    add("Reproducible literature search -- summary")
     add("=" * 79)
     add(f"Run date            : {datetime.date.today().isoformat()}")
     add("Database            : PubMed (NCBI E-utilities)")
     add("Date range in query : 2016-01-01 to 2026-12-31, English")
     add("")
-    add("Stage 1 — search strands")
+    add("Stage 1 -- search strands")
     add("-" * 79)
     for name, hits in strand_hits.items():
         add(f"  {name:38s} {hits:>7d} records")
     add(f"  {'UNION (deduplicated by PubMed)':38s} {n_union:>7d} records")
     add("")
-    add("Stage 3 — automated screening")
+    add("Stage 3 -- automated screening")
     add("-" * 79)
     add(f"  {'Records entering screening':44s} {n_union:>7d}")
     for stat in stats:
@@ -706,7 +711,7 @@ def write_summary(path: str, strand_hits: dict, n_union: int, n_kept: int,
     add("records. The queries and the rules are fixed, so a difference in counts")
     add("reflects database growth rather than a change of method.")
     add("")
-    add("Stage 1 — full query strings")
+    add("Stage 1 -- full query strings")
     add("=" * 79)
     for name, query in STRANDS.items():
         add("")
