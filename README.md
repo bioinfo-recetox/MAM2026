@@ -1,4 +1,4 @@
-# MAD2026
+# MAM2026
 
 Reproducible literature search accompanying the review article
 
