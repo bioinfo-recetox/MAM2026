@@ -1,0 +1,2359 @@
+Candidate records for manual screening
+Generated 2026-09-18 — 785 records
+===============================================================================
+
+   1. A Novel Immune Marker Model Predicts Oncological Outcomes of Patients with Colorectal Cancer.
+      Ann Surg Oncol (2016)  PMID 26581202  doi:10.1245/s10434-015-4889-1
+
+   2. A model of the spatial tumour heterogeneity in colorectal adenocarcinoma tissue.
+      BMC Bioinformatics (2016)  PMID 27342072  doi:10.1186/s12859-016-1126-2
+
+   3. CD9 Expression in Colorectal Carcinomas and Its Prognostic Significance.
+      J Pathol Transl Med (2016)  PMID 27780340  doi:10.4132/jptm.2016.10.02
+
+   4. Epigenetic Homogeneity Within Colorectal Tumors Predicts Shorter Relapse-Free and Overall Survival Times for Patients With Locoregional Cancer.
+      Gastroenterology (2016)  PMID 27521480  doi:10.1053/j.gastro.2016.08.001
+
+   5. Heterogeneity of Vascular Endothelial Growth Factor Receptors 1, 2, 3 in Primary Human Colorectal Carcinoma.
+      Anticancer Res (2016)  PMID 27272777
+
+   6. Human Colorectal Cancer Stage-dependent Global DNA Hypomethylation of Cancer-associated Fibroblasts.
+      Anticancer Res (2016)  PMID 27630288  doi:10.21873/anticanres.10996
+
+   7. Immunoscore encompassing CD3+ and CD8+ T cell densities in distant metastasis is a robust prognostic marker for advanced colorectal cancer.
+      Oncotarget (2016)  PMID 27835889  doi:10.18632/oncotarget.13207
+
+   8. Impact of early cART in the gut during acute HIV infection.
+      JCI Insight (2016)  PMID 27446990  doi:10.1172/jci.insight.87065
+
+   9. MAGE-A is More Highly Expressed Than NY-ESO-1 in a Systematic Immunohistochemical Analysis of 3668 Cases.
+      J Immunother (2016)  PMID 27070449  doi:10.1097/CJI.0000000000000119
+
+  10. Mast cells positive to tryptase and tumour-associated macrophages correlate with angiogenesis in locally advanced colorectal cancer patients undergone to surgery.
+      Expert Opin Ther Targets (2016)  PMID 26914851  doi:10.1517/14728222.2016.1158811
+
+  11. MicroRNA MIR21 and T Cells in Colorectal Cancer.
+      Cancer Immunol Res (2016)  PMID 26419959  doi:10.1158/2326-6066.CIR-15-0084
+
+  12. MicroRNA let-7, T Cells, and Patient Survival in Colorectal Cancer.
+      Cancer Immunol Res (2016)  PMID 27737877  doi:10.1158/2326-6066.CIR-16-0112
+
+  13. Multi-class texture analysis in colorectal cancer histology.
+      Sci Rep (2016)  PMID 27306927  doi:10.1038/srep27988
+
+  14. Occurrence and significance of tumor-associated neutrophils in patients with colorectal cancer.
+      Int J Cancer (2016)  PMID 26939802  doi:10.1002/ijc.30076
+
+  15. Prognostic Utility of Immunoprofiling in Colon Cancer: Results from a Prospective, Multicenter Nodal Ultrastaging Trial.
+      J Am Coll Surg (2016)  PMID 27282965  doi:10.1016/j.jamcollsurg.2016.03.003
+
+  16. Simplified and optimized multispectral imaging for 5-ALA-based fluorescence diagnosis of malignant lesions.
+      Sci Rep (2016)  PMID 27149301  doi:10.1038/srep25530
+
+  17. Tumour-associated macrophages correlate with microvascular bed extension in colorectal cancer patients.
+      J Cell Mol Med (2016)  PMID 27105577  doi:10.1111/jcmm.12826
+
+  18. A Randomized Controlled Trial of Lisinopril to Decrease Lymphoid Fibrosis in Antiretroviral-Treated, HIV-infected Individuals.
+      Pathog Immun (2017)  PMID 28936485  doi:10.20411/pai.v2i3.207
+
+  19. A computational multiscale agent-based model for simulating spatio-temporal tumour immune response to PD1 and PDL1 inhibition.
+      J R Soc Interface (2017)  PMID 28931635  doi:10.1098/rsif.2017.0320
+
+  20. Computer-assisted stereology and automated image analysis for quantification of tumor infiltrating lymphocytes in colon cancer.
+      Diagn Pathol (2017)  PMID 28851404  doi:10.1186/s13000-017-0653-0
+
+  21. Consistent expression of guanylyl cyclase-C in primary and metastatic gastrointestinal cancers.
+      PLoS One (2017)  PMID 29261789  doi:10.1371/journal.pone.0189953
+
+  22. Construction and analysis of tissue microarrays in the era of digital pathology: a pilot study targeting CDX1 and CDX2 in a colon cancer cohort of 612 patients.
+      J Pathol Clin Res (2017)  PMID 28138402  doi:10.1002/cjp2.62
+
+  23. Development of a reliable and accurate algorithm to quantify the tumor immune stroma (QTiS) across tumor types.
+      Oncotarget (2017)  PMID 29383131  doi:10.18632/oncotarget.22932
+
+  24. Downregulation of acetyl-CoA synthetase 2 is a metabolic hallmark of tumor progression and aggressiveness in colorectal carcinoma.
+      Mod Pathol (2017)  PMID 27713423  doi:10.1038/modpathol.2016.172
+
+  25. Increased Expression of Toll-Like Receptors 4, 5, and 9 in Small Bowel Mucosa from Patients with Irritable Bowel Syndrome.
+      Biomed Res Int (2017)  PMID 28246611  doi:10.1155/2017/9624702
+
+  26. Neutrophil infiltration is a favorable prognostic factor in early stages of colon cancer.
+      Hum Pathol (2017)  PMID 28882699  doi:10.1016/j.humpath.2017.08.028
+
+  27. Nuclear maspin expression: A biomarker for budding assessment in colorectal cancer specimens.
+      Pathol Res Pract (2017)  PMID 28780084  doi:10.1016/j.prp.2017.07.025
+
+  28. PD-L1 expression in HNPCC-associated colorectal cancer.
+      Pathol Res Pract (2017)  PMID 29033182  doi:10.1016/j.prp.2017.09.012
+
+  29. Patterns of PD-L1 expression and CD8 T cell infiltration in gastric adenocarcinomas and associated immune stroma.
+      Gut (2017)  PMID 26801886  doi:10.1136/gutjnl-2015-310839
+
+  30. Prediction of radio-responsiveness with immune-profiling in patients with rectal cancer.
+      Oncotarget (2017)  PMID 29108360  doi:10.18632/oncotarget.19558
+
+  31. Proteomics analysis of differential protein expression identifies heat shock protein 47 as a predictive marker for lymph node metastasis in patients with colorectal cancer.
+      Int J Cancer (2017)  PMID 27925182  doi:10.1002/ijc.30557
+
+  32. Second harmonic generation for collagen I characterization in rectal cancer patients with and without preoperative radiotherapy.
+      J Biomed Opt (2017)  PMID 29019178  doi:10.1117/1.JBO.22.10.106006
+
+  33. Stromal and intraepithelial tumor-infiltrating lymphocytes in colorectal carcinoma.
+      Oncol Lett (2017)  PMID 29151905  doi:10.3892/ol.2017.7013
+
+  34. The PD-1 expressing immune phenotype of T cell exhaustion is prominent in the 'immunoreactive' microenvironment of colorectal carcinoma.
+      Histopathology (2017)  PMID 28383777  doi:10.1111/his.13231
+
+  35. Tumor-Associated Macrophage Infiltration in Colorectal Cancer Liver Metastases is Associated With Better Outcome.
+      Ann Surg Oncol (2017)  PMID 28213791  doi:10.1245/s10434-017-5812-8
+
+  36. Type I/type III collagen ratio associated with diverticulitis of the colon in young patients.
+      J Surg Res (2017)  PMID 27979482  doi:10.1016/j.jss.2016.08.044
+
+  37. Upregulation of the transient receptor potential vanilloid 1 in colonic epithelium of patients with active inflammatory bowel disease.
+      Int J Clin Exp Pathol (2017)  PMID 31966488
+
+  38. World-Wide Immunoscore Task Force: meeting report from the "Melanoma Bridge", Napoli, November 30th-December 3rd, 2016.
+      J Transl Med (2017)  PMID 29058595  doi:10.1186/s12967-017-1310-9
+
+  39. Automatic evaluation of tumor budding in immunohistochemically stained colorectal carcinomas and correlation to clinical outcome.
+      Diagn Pathol (2018)  PMID 30153844  doi:10.1186/s13000-018-0739-3
+
+  40. Beyond microsatellite testing: assessment of tumor mutational burden identifies subsets of colorectal cancer who may respond to immune checkpoint inhibition.
+      J Gastrointest Oncol (2018)  PMID 30151257  doi:10.21037/jgo.2018.05.06
+
+  41. Colonic graft-vs.-host disease in autologous versus allogeneic transplant patients: earlier onset, more apoptosis, and lack of regulatory T-cell attenuation.
+      Mod Pathol (2018)  PMID 29899549  doi:10.1038/s41379-018-0078-7
+
+  42. Comprehensive Intrametastatic Immune Quantification and Major Impact of Immunoscore on Survival.
+      J Natl Cancer Inst (2018)  PMID 28922789  doi:10.1093/jnci/djx123
+
+  43. DNA damage predicts prognosis and treatment response in colorectal liver metastases superior to immunogenic cell death and T cells.
+      Theranostics (2018)  PMID 29930723  doi:10.7150/thno.24699
+
+  44. Data-Driven Discovery of Immune Contexture Biomarkers.
+      Front Oncol (2018)  PMID 30619761  doi:10.3389/fonc.2018.00627
+
+  45. Digital image analysis of pan-cytokeratin stained tumor slides for evaluation of tumor budding in pT1/pT2 colorectal cancer: Results of a feasibility study.
+      Pathol Res Pract (2018)  PMID 30017334  doi:10.1016/j.prp.2018.07.002
+
+  46. Does heterogeneity matter in the estimation of tumour budding and tumour stroma ratio in colon cancer?
+      Diagn Pathol (2018)  PMID 29558947  doi:10.1186/s13000-018-0697-9
+
+  47. Dynamic contrast-enhanced EUS for quantification of tumor perfusion in colonic cancer: a prospective cohort study.
+      Gastrointest Endosc (2018)  PMID 29329991  doi:10.1016/j.gie.2018.01.001
+
+  48. Effects of Supplemental Calcium and Vitamin D on Expression of Toll-Like Receptors and Phospho-IKKα/β in the Normal Rectal Mucosa of Colorectal Adenoma Patients.
+      Cancer Prev Res (Phila) (2018)  PMID 30209117  doi:10.1158/1940-6207.CAPR-18-0123
+
+  49. Expression and location of IL-17A, E, F and their receptors in colorectal adenocarcinoma: Comparison with benign intestinal disease.
+      Pathol Res Pract (2018)  PMID 29548809  doi:10.1016/j.prp.2018.03.011
+
+  50. Farnesoid X Receptor Expression in Microscopic Colitis: A Potential Role in Disease Etiopathogenesis.
+      GE Port J Gastroenterol (2018)  PMID 29457048  doi:10.1159/000481197
+
+  51. Germinal Centers Determine the Prognostic Relevance of Tertiary Lymphoid Structures and Are Impaired by Corticosteroids in Lung Squamous Cell Carcinoma.
+      Cancer Res (2018)  PMID 29279354  doi:10.1158/0008-5472.CAN-17-1987
+
+  52. High expression of PD-1 and PD-L1 in ocular adnexal sebaceous carcinoma.
+      Oncoimmunology (2018)  PMID 30228943  doi:10.1080/2162402X.2018.1475874
+
+  53. Histopathological and molecular classification of colorectal cancer and corresponding peritoneal metastases.
+      Br J Surg (2018)  PMID 29341165  doi:10.1002/bjs.10788
+
+  54. Immunohistochemical Assessment of CD30+ Lymphocytes in the Intestinal Mucosa Facilitates Diagnosis of Pediatric Ulcerative Colitis.
+      Dig Dis Sci (2018)  PMID 29541900  doi:10.1007/s10620-018-5018-3
+
+  55. Immunological environment in colorectal cancer: a computer-aided morphometric study of whole slide digital images derived from tissue microarray.
+      Pathology (2018)  PMID 30166125  doi:10.1016/j.pathol.2018.04.006
+
+  56. International validation of the consensus Immunoscore for the classification of colon cancer: a prognostic and accuracy study.
+      Lancet (2018)  PMID 29754777  doi:10.1016/S0140-6736(18)30789-X
+
+  57. Low tumor infiltrating mast cell density confers prognostic benefit and reflects immunoactivation in colorectal cancer.
+      Int J Cancer (2018)  PMID 29873076  doi:10.1002/ijc.31613
+
+  58. Mismatch repair-deficient colorectal cancer: a model of immunogenic and immune cell-rich tumor despite nonsignificant programmed cell death ligand-1 expression in tumor cells.
+      Hum Pathol (2018)  PMID 29208565  doi:10.1016/j.humpath.2017.09.019
+
+  59. Multispectral imaging reveals hyper active TGF-β signaling in colorectal cancer.
+      Cancer Biol Ther (2018)  PMID 29219668  doi:10.1080/15384047.2017.1395116
+
+  60. Nuclear Expression of CD133 Is Associated with Good Prognosis in Patients with Colorectal Adenocarcinoma.
+      Anticancer Res (2018)  PMID 30061254  doi:10.21873/anticanres.12792
+
+  61. PD-L1 protein expression in tumour cells and immune cells in mismatch repair protein-deficient and -proficient colorectal cancer: the foundation study using the SP142 antibody and whole section immunohistochemistry.
+      J Clin Pathol (2018)  PMID 28667193  doi:10.1136/jclinpath-2017-204525
+
+  62. Paving the way to tumor budding assessment using digital pathology: a pilot study in Timişoara City (Romania).
+      Rom J Morphol Embryol (2018)  PMID 30534808
+
+  63. Potential immune priming of the tumor microenvironment with FOLFOX chemotherapy in locally advanced rectal cancer.
+      Oncoimmunology (2018)  PMID 29872576  doi:10.1080/2162402X.2018.1435227
+
+  64. Prognostic significance of PD-L1 expression and CD8+ T cell infiltration in pulmonary neuroendocrine tumors.
+      Diagn Pathol (2018)  PMID 29789013  doi:10.1186/s13000-018-0712-1
+
+  65. Quantitative Characterization of CD8+ T Cell Clustering and Spatial Heterogeneity in Solid Tumors.
+      Front Oncol (2018)  PMID 30666298  doi:10.3389/fonc.2018.00649
+
+  66. Quantitative assessment of radiation-induced changes of bladder and rectum collagen structure using optical methods.
+      J Biomed Opt (2018)  PMID 30136470  doi:10.1117/1.JBO.23.9.091417
+
+  67. RAS status and neoadjuvant chemotherapy impact CD8+ cells and tumor HLA class I expression in liver metastatic colorectal cancer.
+      J Immunother Cancer (2018)  PMID 30454021  doi:10.1186/s40425-018-0438-3
+
+  68. The Link between the Multiverse of Immune Microenvironments in Metastases and the Survival of Colorectal Cancer Patients.
+      Cancer Cell (2018)  PMID 30537506  doi:10.1016/j.ccell.2018.11.003
+
+  69. The Prognostic Value of Tumor-Infiltrating lymphocytes in Stage II Colon Cancer. A Nationwide Population-Based Study.
+      Transl Oncol (2018)  PMID 29940413  doi:10.1016/j.tranon.2018.03.008
+
+  70. The distribution of intratumoral macrophages correlates with molecular phenotypes and impacts prognosis in colorectal carcinoma.
+      Histopathology (2018)  PMID 29906313  doi:10.1111/his.13674
+
+  71. The expression of IL10RA in colorectal cancer and its correlation with the proliferation index and the clinical stage of the disease.
+      Cytokine (2018)  PMID 29730384  doi:10.1016/j.cyto.2018.04.030
+
+  72. Topography of cancer-associated immune cells in human solid tumors.
+      Elife (2018)  PMID 30179157  doi:10.7554/eLife.36967
+
+  73. Tumour buds determine prognosis in resected pancreatic ductal adenocarcinoma.
+      Br J Cancer (2018)  PMID 29755112  doi:10.1038/s41416-018-0093-y
+
+  74. Validation of the systematic scoring of immunohistochemically stained tumour tissue microarrays using QuPath digital image analysis.
+      Histopathology (2018)  PMID 29575153  doi:10.1111/his.13516
+
+  75. Vascularization of colorectal carcinoma liver metastasis: insight into stratification of patients for anti-angiogenic therapies.
+      J Pathol Clin Res (2018)  PMID 29654716  doi:10.1002/cjp2.100
+
+  76. A gene expression assay for simultaneous measurement of microsatellite instability and anti-tumor immune activity.
+      J Immunother Cancer (2019)  PMID 30665466  doi:10.1186/s40425-018-0472-1
+
+  77. A method for semi-automated image analysis of HLA class I tumour epithelium expression in rectal cancer.
+      Eur J Histochem (2019)  PMID 31113192  doi:10.4081/ejh.2019.3028
+
+  78. A modular cGAN classification framework: Application to colorectal tumor detection.
+      Sci Rep (2019)  PMID 31831792  doi:10.1038/s41598-019-55257-w
+
+  79. An Immunoscore System Based On CD3+ And CD8+ Infiltrating Lymphocytes Densities To Predict The Outcome Of Patients With Colorectal Adenocarcinoma.
+      Onco Targets Ther (2019)  PMID 31695425  doi:10.2147/OTT.S211048
+
+  80. An immune infiltration signature to predict the overall survival of patients with colon cancer.
+      IUBMB Life (2019)  PMID 31301220  doi:10.1002/iub.2124
+
+  81. Automated Analysis of Lymphocytic Infiltration, Tumor Budding, and Their Spatial Relationship Improves Prognostic Accuracy in Colorectal Cancer.
+      Cancer Immunol Res (2019)  PMID 30846441  doi:10.1158/2326-6066.CIR-18-0377
+
+  82. Calcium Intake and Risk of Colorectal Cancer According to Tumor-infiltrating T Cells.
+      Cancer Prev Res (Phila) (2019)  PMID 30760501  doi:10.1158/1940-6207.CAPR-18-0279
+
+  83. Clinicopathological significance of heterogeneic ezrin expression in poorly differentiated clusters of colorectal cancers.
+      Cancer Sci (2019)  PMID 31175699  doi:10.1111/cas.14093
+
+  84. Co-Detection of miR-21 and TNF-α mRNA in Budding Cancer Cells in Colorectal Cancer.
+      Int J Mol Sci (2019)  PMID 30999696  doi:10.3390/ijms20081907
+
+  85. Combined epithelial marker analysis of tumour budding in stage II colorectal cancer.
+      J Pathol Clin Res (2019)  PMID 30358171  doi:10.1002/cjp2.119
+
+  86. Computer aided quantification of intratumoral stroma yields an independent prognosticator in rectal cancer.
+      Cell Oncol (Dordr) (2019)  PMID 30825182  doi:10.1007/s13402-019-00429-z
+
+  87. Construction and Validation of an Immune-Related Prognostic Model Based on TP53 Status in Colorectal Cancer.
+      Cancers (Basel) (2019)  PMID 31689990  doi:10.3390/cancers11111722
+
+  88. Deep Learning With Sampling in Colon Cancer Histology.
+      Front Bioeng Biotechnol (2019)  PMID 30972333  doi:10.3389/fbioe.2019.00052
+
+  89. Differential clinical impacts of tumour budding evaluated by the use of immunohistochemical and haematoxylin and eosin staining in stage II colorectal cancer.
+      Histopathology (2019)  PMID 30698857  doi:10.1111/his.13830
+
+  90. Does the expression of the ACVR2A gene affect the development of colorectal cancer?
+      Genet Mol Biol (2019)  PMID 30856244  doi:10.1590/1678-4685-GMB-2017-0332
+
+  91. Duodenal and Rectal Mucosa Inflammation in Patients With Non-celiac Wheat Sensitivity.
+      Clin Gastroenterol Hepatol (2019)  PMID 30138736  doi:10.1016/j.cgh.2018.08.043
+
+  92. Elevated Microsatellite Alterations at Selected Tetranucleotides (EMAST) Is Not Attributed to MSH3 Loss in Stage I-III Colon cancer: An Automated, Digitalized Assessment by Immunohistochemistry of Whole Slides and Hot Spots.
+      Transl Oncol (2019)  PMID 31677491  doi:10.1016/j.tranon.2019.08.009
+
+  93. Exploratory analyses of consensus molecular subtype-dependent associations of TP53 mutations with immunomodulation and prognosis in colorectal cancer.
+      ESMO Open (2019)  PMID 31321083  doi:10.1136/esmoopen-2019-000523
+
+  94. Gene expression profiling of lichenoid dermatitis immune-related adverse event from immune checkpoint inhibitors reveals increased CD14+ and CD16+ monocytes driving an innate immune response.
+      J Cutan Pathol (2019)  PMID 30883858  doi:10.1111/cup.13454
+
+  95. Immune Cell Infiltration in the Microenvironment of Liver Oligometastasis from Colorectal Cancer: Intratumoural CD8/CD3 Ratio Is a Valuable Prognostic Index for Patients Undergoing Liver Metastasectomy.
+      Cancers (Basel) (2019)  PMID 31810350  doi:10.3390/cancers11121922
+
+  96. Immunoprofiling of Colitis-associated and Sporadic Colorectal Cancer and its Clinical Significance.
+      Sci Rep (2019)  PMID 31048714  doi:10.1038/s41598-019-42986-1
+
+  97. Increased expression of cancer-associated fibroblast markers at the invasive front and its association with tumor-stroma ratio in colorectal cancer.
+      BMC Cancer (2019)  PMID 30922247  doi:10.1186/s12885-019-5462-2
+
+  98. Integrating RNA expression and visual features for immune infiltrate prediction.
+      Pac Symp Biocomput (2019)  PMID 30864330
+
+  99. Intratumoural-infiltrating CD4 + and FOXP3 + T cells as strong positive predictive markers for the prognosis of resectable colorectal cancer.
+      Br J Cancer (2019)  PMID 31488881  doi:10.1038/s41416-019-0559-6
+
+ 100. Is revision of cutoff values needed when using CD3 immunohistochemical staining in histopathologic diagnosis of lymphocytic colitis?
+      Hum Pathol (2019)  PMID 30240770  doi:10.1016/j.humpath.2018.08.031
+
+ 101. Learning to detect lymphocytes in immunohistochemistry with deep learning.
+      Med Image Anal (2019)  PMID 31476576  doi:10.1016/j.media.2019.101547
+
+ 102. MicroRNA-9-5p-CDX2 Axis: A Useful Prognostic Biomarker for Patients with Stage II/III Colorectal Cancer.
+      Cancers (Basel) (2019)  PMID 31783700  doi:10.3390/cancers11121891
+
+ 103. Multi-Organ Gland Segmentation Using Deep Learning.
+      Front Med (Lausanne) (2019)  PMID 31428614  doi:10.3389/fmed.2019.00173
+
+ 104. Overexpression of SLC12A5 is associated with tumor progression and poor survival in ovarian carcinoma.
+      Int J Gynecol Cancer (2019)  PMID 31570543  doi:10.1136/ijgc-2019-000229
+
+ 105. Predicting survival from colorectal cancer histology slides using deep learning: A retrospective multicenter study.
+      PLoS Med (2019)  PMID 30677016  doi:10.1371/journal.pmed.1002730
+
+ 106. Prognostic Value of Poorly Differentiated Clusters in Liver Metastatic Lesions of Colorectal Carcinoma.
+      Am J Surg Pathol (2019)  PMID 31318710  doi:10.1097/PAS.0000000000001329
+
+ 107. Prognostic value of Osteopontin (SPP1) in colorectal carcinoma requires a personalized molecular approach.
+      Tumour Biol (2019)  PMID 31500540  doi:10.1177/1010428319863627
+
+ 108. Quantitative Visualization of Hypoxia and Proliferation Gradients Within Histological Tissue Sections.
+      Front Bioeng Biotechnol (2019)  PMID 31867322  doi:10.3389/fbioe.2019.00397
+
+ 109. Response prediction to oxaliplatin plus 5-fluorouracil chemotherapy in patients with colorectal cancer using a four-protein immunohistochemical model.
+      Oncol Lett (2019)  PMID 31423282  doi:10.3892/ol.2019.10474
+
+ 110. Stromal organization as predictive biomarker for the treatment of colon cancer with adjuvant bevacizumab; a post-hoc analysis of the AVANT trial.
+      Cell Oncol (Dordr) (2019)  PMID 31102145  doi:10.1007/s13402-019-00449-9
+
+ 111. The Two Faces of Tumor-Associated Macrophages and Their Clinical Significance in Colorectal Cancer.
+      Front Immunol (2019)  PMID 31481956  doi:10.3389/fimmu.2019.01875
+
+ 112. The role of PEG3 in the occurrence and prognosis of colon cancer.
+      Onco Targets Ther (2019)  PMID 31413595  doi:10.2147/OTT.S208060
+
+ 113. Traditional Serrated Pathway-associated Colorectal Carcinoma: Morphologic Reappraisal of Serrated Morphology, Tumor Budding, and Identification of Frequent PTEN Alterations.
+      Am J Surg Pathol (2019)  PMID 31094930  doi:10.1097/PAS.0000000000001274
+
+ 114. Tumor Budding Detection System in Whole Slide Pathology Images.
+      J Med Syst (2019)  PMID 31853654  doi:10.1007/s10916-019-1515-y
+
+ 115. Tumor budding in colorectal carcinoma: An institutional interobserver reliability and prognostic study of colorectal adenocarcinoma cases.
+      Ann Diagn Pathol (2019)  PMID 31731034  doi:10.1016/j.anndiagpath.2019.151420
+
+ 116. Tumour parcellation and quantification (TuPaQ): a tool for refining biomarker analysis through rapid and automated segmentation of tumour epithelium.
+      Histopathology (2019)  PMID 30735268  doi:10.1111/his.13838
+
+ 117. Tumour-infiltrating CD8+ lymphocytes and colorectal cancer recurrence by tumour and nodal stage.
+      Br J Cancer (2019)  PMID 31388185  doi:10.1038/s41416-019-0540-4
+
+ 118. A Diagnostic Biopsy-Adapted Immunoscore Predicts Response to Neoadjuvant Treatment and Selects Patients with Rectal Cancer Eligible for a Watch-and-Wait Strategy.
+      Clin Cancer Res (2020)  PMID 32669377  doi:10.1158/1078-0432.CCR-20-0337
+
+ 119. A robust multiplex immunofluorescence and digital pathology workflow for the characterisation of the tumour immune microenvironment.
+      Mol Oncol (2020)  PMID 32671911  doi:10.1002/1878-0261.12764
+
+ 120. Altered organization of collagen fibers in the uninvolved human colon mucosa 10 cm and 20 cm away from the malignant tumor.
+      Sci Rep (2020)  PMID 32286443  doi:10.1038/s41598-020-63368-y
+
+ 121. Analysis of Spatial Organization of Suppressive Myeloid Cells and Effector T Cells in Colorectal Cancer-A Potential Tool for Discovering Prognostic Biomarkers in Clinical Research.
+      Front Immunol (2020)  PMID 33193316  doi:10.3389/fimmu.2020.550250
+
+ 122. Analysis of tumor microenvironmental features to refine prognosis by T, N risk group in patients with stage III colon cancer (NCCTG N0147) (Alliance).
+      Ann Oncol (2020)  PMID 32165096  doi:10.1016/j.annonc.2020.01.011
+
+ 123. Analytical validation of the Immunoscore and its associated prognostic value in patients with colon cancer.
+      J Immunother Cancer (2020)  PMID 32448799  doi:10.1136/jitc-2019-000272
+
+ 124. Artificial intelligence quantified tumour-stroma ratio is an independent predictor for overall survival in resectable colorectal cancer.
+      EBioMedicine (2020)  PMID 33039706  doi:10.1016/j.ebiom.2020.103054
+
+ 125. Artificial intelligence-guided tissue analysis combined with immune infiltrate assessment predicts stage III colon cancer outcomes in PETACC08 study.
+      Gut (2020)  PMID 31780575  doi:10.1136/gutjnl-2019-319292
+
+ 126. Assessment of individual tumor buds using keratin immunohistochemistry: moderate interobserver agreement suggests a role for machine learning.
+      Mod Pathol (2020)  PMID 31844269  doi:10.1038/s41379-019-0434-2
+
+ 127. Association between local immune cell infiltration, mismatch repair status and systemic inflammatory response in colorectal cancer.
+      J Transl Med (2020)  PMID 32316975  doi:10.1186/s12967-020-02336-6
+
+ 128. Automated Quantitation of CD8-positive T Cells Predicts Prognosis in Colonic Adenocarcinoma With Mucinous, Signet Ring Cell, or Medullary Differentiation Independent of Mismatch Repair Protein Status.
+      Am J Surg Pathol (2020)  PMID 32205483  doi:10.1097/PAS.0000000000001468
+
+ 129. Biomarker recommendation for PD-1/PD-L1 immunotherapy development in pediatric cancer based on digital image analysis of PD-L1 and immune cells.
+      J Pathol Clin Res (2020)  PMID 31922656  doi:10.1002/cjp2.152
+
+ 130. CRI iAtlas: an interactive portal for immuno-oncology research.
+      F1000Res (2020)  PMID 33214875  doi:10.12688/f1000research.25141.1
+
+ 131. Cellular community detection for tissue phenotyping in colorectal cancer histology images.
+      Med Image Anal (2020)  PMID 32330851  doi:10.1016/j.media.2020.101696
+
+ 132. Characterisation of the Expression of Neurotensin and Its Receptors in Human Colorectal Cancer and Its Clinical Implications.
+      Biomolecules (2020)  PMID 32764278  doi:10.3390/biom10081145
+
+ 133. Combining multiple spatial statistics enhances the description of immune cell localisation within tumours.
+      Sci Rep (2020)  PMID 33122646  doi:10.1038/s41598-020-75180-9
+
+ 134. Comparison of skin biopsy sample processing and storage methods on high dimensional immune gene expression using the Nanostring nCounter system.
+      Diagn Pathol (2020)  PMID 32414387  doi:10.1186/s13000-020-00974-4
+
+ 135. Constellation Loss: Improving the Efficiency of Deep Metric Learning Loss Functions for the Optimal Embedding of histopathological images.
+      J Pathol Inform (2020)  PMID 33828896  doi:10.4103/jpi.jpi_41_20
+
+ 136. Deep Convolutional Neural Network-Based Lymph Node Metastasis Prediction for Colon Cancer Using Histopathological Images.
+      Front Oncol (2020)  PMID 33520727  doi:10.3389/fonc.2020.619803
+
+ 137. Differential expression of mast cell granules in samples of metastatic and non-metastatic colorectal cancer in patients.
+      Acta Histochem (2020)  PMID 33066840  doi:10.1016/j.acthis.2020.151618
+
+ 138. Digital Image Analysis of CD8+ and CD3+ Tumor-Infiltrating Lymphocytes in Tongue Squamous Cell Carcinoma.
+      Cancer Manag Res (2020)  PMID 32982423  doi:10.2147/CMAR.S255816
+
+ 139. Dysregulated PDGFR alpha expression and novel somatic mutations in colorectal cancer: association to RAS wild type status and tumor size.
+      J Transl Med (2020)  PMID 33213472  doi:10.1186/s12967-020-02614-3
+
+ 140. Helper T cell-dominant tertiary lymphoid structures are associated with disease relapse of advanced colorectal cancer.
+      Oncoimmunology (2020)  PMID 32117589  doi:10.1080/2162402X.2020.1724763
+
+ 141. Hist-Immune signature: a prognostic factor in colorectal cancer using immunohistochemical slide image analysis.
+      Oncoimmunology (2020)  PMID 33194320  doi:10.1080/2162402X.2020.1841935
+
+ 142. Identification and validation of an immune-related gene signature predictive of overall survival in colon cancer.
+      Aging (Albany NY) (2020)  PMID 33401247  doi:10.18632/aging.202317
+
+ 143. Immune infiltrating cells in duodenal cancers.
+      J Transl Med (2020)  PMID 32883314  doi:10.1186/s12967-020-02508-4
+
+ 144. Immune status is prognostic for poor survival in colorectal cancer patients and is associated with tumour hypoxia.
+      Br J Cancer (2020)  PMID 32684627  doi:10.1038/s41416-020-0985-5
+
+ 145. Immuno-Interface Score to Predict Outcome in Colorectal Cancer Independent of Microsatellite Instability Status.
+      Cancers (Basel) (2020)  PMID 33050344  doi:10.3390/cancers12102902
+
+ 146. Inflammation-Induced Mucosal KYNU Expression Identifies Human Ileal Crohn's Disease.
+      J Clin Med (2020)  PMID 32384670  doi:10.3390/jcm9051360
+
+ 147. KRT17 as a prognostic biomarker for stage II colorectal cancer.
+      Carcinogenesis (2020)  PMID 31754689  doi:10.1093/carcin/bgz192
+
+ 148. Label-free colorectal cancer screening using deep learning and spatial light interference microscopy (SLIM).
+      APL Photonics (2020)  PMID 34368439  doi:10.1063/5.0004723
+
+ 149. Metastasis immune-based scores predict patient survival.
+      Oncoimmunology (2020)  PMID 32923167  doi:10.1080/2162402X.2020.1806000
+
+ 150. Microproteomics and Immunohistochemistry Reveal Differences in Aldo-Keto Reductase Family 1 Member C3 in Tissue Specimens of Ulcerative Colitis and Crohn's Disease.
+      Proteomics Clin Appl (2020)  PMID 32003543  doi:10.1002/prca.201900110
+
+ 151. Microsatellite instability status is determined by targeted sequencing with MSIcall in 25 cancer types.
+      Clin Chim Acta (2020)  PMID 31730810  doi:10.1016/j.cca.2019.11.002
+
+ 152. Multicenter International Society for Immunotherapy of Cancer Study of the Consensus Immunoscore for the Prediction of Survival and Response to Chemotherapy in Stage III Colon Cancer.
+      J Clin Oncol (2020)  PMID 32897827  doi:10.1200/JCO.19.03205
+
+ 153. Multiplex Cellular Communities in Multi-Gigapixel Colorectal Cancer Histology Images for Tissue Phenotyping.
+      IEEE Trans Image Process (2020)  PMID 32966218  doi:10.1109/TIP.2020.3023795
+
+ 154. Multiverse of immune microenvironment in metastatic colorectal cancer.
+      Oncoimmunology (2020)  PMID 33457100  doi:10.1080/2162402X.2020.1824316
+
+ 155. Neoadjuvant chemotherapy is associated with a transient increase of intratumoral T-cell density in microsatellite stable colorectal liver metastases.
+      Cancer Biol Ther (2020)  PMID 32098573  doi:10.1080/15384047.2020.1721252
+
+ 156. Pre-Existing Tumoral B Cell Infiltration and Impaired Genome Maintenance Correlate with Response to Chemoradiotherapy in Locally Advanced Rectal Cancer.
+      Cancers (Basel) (2020)  PMID 32784964  doi:10.3390/cancers12082227
+
+ 157. Pre-Trained Deep Convolutional Neural Network for Clostridioides Difficile Bacteria Cytotoxicity Classification Based on Fluorescence Images.
+      Sensors (Basel) (2020)  PMID 33255305  doi:10.3390/s20236713
+
+ 158. Prognostic Significance of Immune Cell Populations Identified by Machine Learning in Colorectal Cancer Using Routine Hematoxylin and Eosin-Stained Sections.
+      Clin Cancer Res (2020)  PMID 32439699  doi:10.1158/1078-0432.CCR-20-0071
+
+ 159. Prognostic Significance of Lacunarity in Preoperative Biopsy of Colorectal Cancer.
+      Pathol Oncol Res (2020)  PMID 32617959  doi:10.1007/s12253-020-00851-x
+
+ 160. Prognostic and predictive value of the Immunoscore in stage III colon cancer patients treated with oxaliplatin in the prospective IDEA France PRODIGE-GERCOR cohort study.
+      Ann Oncol (2020)  PMID 32294529  doi:10.1016/j.annonc.2020.03.310
+
+ 161. Prognostic significance of mesothelin expression in colorectal cancer disclosed by area-specific four-point tissue microarrays.
+      Virchows Arch (2020)  PMID 32107600  doi:10.1007/s00428-020-02775-y
+
+ 162. Prognostic value of nucleotyping, DNA ploidy and stroma in high-risk stage II colon cancer.
+      Br J Cancer (2020)  PMID 32624576  doi:10.1038/s41416-020-0974-8
+
+ 163. Prognostic value of tumor infiltrating lymphocytes combined with PD-L1 expression for patients with solitary colorectal cancer liver metastasis.
+      Ann Transl Med (2020)  PMID 33178753  doi:10.21037/atm-20-2762a
+
+ 164. Quantitative assessment of tumor-infiltrating lymphocytes in mismatch repair proficient colon cancer.
+      Oncoimmunology (2020)  PMID 33235819  doi:10.1080/2162402X.2020.1841948
+
+ 165. Regulatory T cells and cytotoxic T cells close to the epithelial-stromal interface are associated with a favorable prognosis.
+      Oncoimmunology (2020)  PMID 32363115  doi:10.1080/2162402X.2020.1746149
+
+ 166. STAT1 as a potential prognosis marker for poor outcomes of early stage colorectal cancer with microsatellite instability.
+      PLoS One (2020)  PMID 32275681  doi:10.1371/journal.pone.0229252
+
+ 167. Spatial immune profiling of the colorectal tumor microenvironment predicts good outcome in stage II patients.
+      NPJ Digit Med (2020)  PMID 32435699  doi:10.1038/s41746-020-0275-x
+
+ 168. Tertiary Lymphoid Structures in Colorectal Cancer Liver Metastases: Association With Immunological and Clinical Parameters and Chemotherapy Response.
+      Anticancer Res (2020)  PMID 33109574  doi:10.21873/anticanres.14657
+
+ 169. The Determination of Immunomodulation and Its Impact on Survival of Rectal Cancer Patients Depends on the Area Comprising a Tissue Microarray.
+      Cancers (Basel) (2020)  PMID 32121328  doi:10.3390/cancers12030563
+
+ 170. Tumor proportion in colon cancer: results from a semiautomatic image analysis approach.
+      Virchows Arch (2020)  PMID 32076815  doi:10.1007/s00428-020-02764-1
+
+ 171. Tumour budding, poorly differentiated clusters, and T-cell response in colorectal cancer.
+      EBioMedicine (2020)  PMID 32652320  doi:10.1016/j.ebiom.2020.102860
+
+ 172. Unexpected High Prevalence of Lymphocytic Infiltrates in Myenteric Ganglions in Intestinal Inertia.
+      Am J Surg Pathol (2020)  PMID 32271192  doi:10.1097/PAS.0000000000001484
+
+ 173. Whole slide imaging and colorectal carcinoma: A validation study for tumor budding and stromal differentiation.
+      Pathol Res Pract (2020)  PMID 33068916  doi:10.1016/j.prp.2020.153233
+
+ 174. Whole-Slide Image Analysis Reveals Quantitative Landscape of Tumor-Immune Microenvironment in Colorectal Cancers.
+      Clin Cancer Res (2020)  PMID 31757879  doi:10.1158/1078-0432.CCR-19-1159
+
+ 175. A Comparison of Methods for Studying the Tumor Microenvironment's Spatial Heterogeneity in Digital Pathology Specimens.
+      J Pathol Inform (2021)  PMID 34012710  doi:10.4103/jpi.jpi_26_20
+
+ 176. A Diffusion-like Process Accommodates New Crypts During Clonal Expansion in Human Colonic Epithelium.
+      Gastroenterology (2021)  PMID 33895166  doi:10.1053/j.gastro.2021.04.035
+
+ 177. A Means of Assessing Deep Learning-Based Detection of ICOS Protein Expression in Colon Cancer.
+      Cancers (Basel) (2021)  PMID 34359723  doi:10.3390/cancers13153825
+
+ 178. A convolutional neural network for common coordinate registration of high-resolution histology images.
+      Bioinformatics (2021)  PMID 34128955  doi:10.1093/bioinformatics/btab447
+
+ 179. A deep learning quantified stroma-immune score to predict survival of patients with stage II-III colorectal cancer.
+      Cancer Cell Int (2021)  PMID 34717647  doi:10.1186/s12935-021-02297-w
+
+ 180. A template to quantify the location and density of CD3 + and CD8 + tumor-infiltrating lymphocytes in colon cancer by digital pathology on whole slides for an objective, standardized immune score assessment.
+      Cancer Immunol Immunother (2021)  PMID 33439293  doi:10.1007/s00262-020-02834-y
+
+ 181. Analysis of Immune Landscape Reveals Prognostic Significance of Cytotoxic CD4+ T Cells in the Central Region of pMMR CRC.
+      Front Oncol (2021)  PMID 34631551  doi:10.3389/fonc.2021.724232
+
+ 182. Artificial Neural Network Analysis-Based Immune-Related Signatures of Primary Non-Response to Infliximab in Patients With Ulcerative Colitis.
+      Front Immunol (2021)  PMID 34992592  doi:10.3389/fimmu.2021.742080
+
+ 183. Association of Fusobacterium nucleatum with Specific T-cell Subsets in the Colorectal Carcinoma Microenvironment.
+      Clin Cancer Res (2021)  PMID 33632927  doi:10.1158/1078-0432.CCR-20-4009
+
+ 184. Association of the collagen score with anastomotic leakage in rectal cancer patients after neoadjuvant chemoradiotherapy.
+      Surgery (2021)  PMID 34116856  doi:10.1016/j.surg.2021.05.023
+
+ 185. Associations between tissue-based CD3+ T-lymphocyte count and colorectal cancer survival in a prospective cohort of older women.
+      Mol Carcinog (2021)  PMID 33200476  doi:10.1002/mc.23267
+
+ 186. Automated Detection and Classification of Desmoplastic Reaction at the Colorectal Tumour Front Using Deep Learning.
+      Cancers (Basel) (2021)  PMID 33807394  doi:10.3390/cancers13071615
+
+ 187. Brief report: Lymph node morphology in stage II colorectal cancer.
+      PLoS One (2021)  PMID 33780511  doi:10.1371/journal.pone.0249197
+
+ 188. CMTM6 expression in M2 macrophages is a potential predictor of PD-1/PD-L1 inhibitor response in colorectal cancer.
+      Cancer Immunol Immunother (2021)  PMID 33818637  doi:10.1007/s00262-021-02931-6
+
+ 189. CoSTA: unsupervised convolutional neural network learning for spatial transcriptomics analysis.
+      BMC Bioinformatics (2021)  PMID 34372758  doi:10.1186/s12859-021-04314-1
+
+ 190. Code-Free Development and Deployment of Deep Segmentation Models for Digital Pathology.
+      Front Med (Lausanne) (2021)  PMID 35155486  doi:10.3389/fmed.2021.816281
+
+ 191. Combined Assessment of the Tumor-Stroma Ratio and Tumor Immune Cell Infiltrate for Immune Checkpoint Inhibitor Therapy Response Prediction in Colon Cancer.
+      Cells (2021)  PMID 34831157  doi:10.3390/cells10112935
+
+ 192. Comprehensive Immunoprofiling of High-Risk Oral Proliferative and Localized Leukoplakia.
+      Cancer Res Commun (2021)  PMID 36860910  doi:10.1158/2767-9764.CRC-21-0060
+
+ 193. Computational Tumor Infiltration Phenotypes Enable the Spatial and Genomic Analysis of Immune Infiltration in Colorectal Cancer.
+      Front Oncol (2021)  PMID 33791196  doi:10.3389/fonc.2021.552331
+
+ 194. Condomless receptive anal intercourse is associated with markers of mucosal inflammation in a cohort of men who have sex with men in Atlanta, Georgia.
+      J Int AIDS Soc (2021)  PMID 34911162  doi:10.1002/jia2.25859
+
+ 195. Cytotoxic CD8+ T cells and tissue resident memory cells in colorectal cancer based on microsatellite instability and BRAF status.
+      World J Clin Oncol (2021)  PMID 33959477  doi:10.5306/wjco.v12.i4.238
+
+ 196. DNA methylation-based signature of CD8+ tumor-infiltrating lymphocytes enables evaluation of immune response and prognosis in colorectal cancer.
+      J Immunother Cancer (2021)  PMID 34548385  doi:10.1136/jitc-2021-002671
+
+ 197. Deep Learning-Based Mapping of Tumor Infiltrating Lymphocytes in Whole Slide Images of 23 Types of Cancer.
+      Front Oncol (2021)  PMID 35251953  doi:10.3389/fonc.2021.806603
+
+ 198. Deep learning-based tumor microenvironment analysis in colon adenocarcinoma histopathological whole-slide images.
+      Comput Methods Programs Biomed (2021)  PMID 33789213  doi:10.1016/j.cmpb.2021.106047
+
+ 199. Development and initial validation of a deep learning algorithm to quantify histological features in colorectal carcinoma including tumour budding/poorly differentiated clusters.
+      Histopathology (2021)  PMID 33590485  doi:10.1111/his.14353
+
+ 200. Development and validation of a weakly supervised deep learning framework to predict the status of molecular pathways and key mutations in colorectal cancer from routine histology images: a retrospective study.
+      Lancet Digit Health (2021)  PMID 34686474  doi:10.1016/S2589-7500(21)00180-1
+
+ 201. Development of a Deep-Learning Pipeline to Recognize and Characterize Macrophages in Colo-Rectal Liver Metastasis.
+      Cancers (Basel) (2021)  PMID 34282750  doi:10.3390/cancers13133313
+
+ 202. Differential and longitudinal immune gene patterns associated with reprogrammed microenvironment and viral mimicry in response to neoadjuvant radiotherapy in rectal cancer.
+      J Immunother Cancer (2021)  PMID 33678606  doi:10.1136/jitc-2020-001717
+
+ 203. Differential immune microenvironmental features of microsatellite-unstable colorectal cancers according to Fusobacterium nucleatum status.
+      Cancer Immunol Immunother (2021)  PMID 32623478  doi:10.1007/s00262-020-02657-x
+
+ 204. Dipeptidyl Peptidase (DPP)-4 Inhibitor Impairs the Outcomes of Patients with Type 2 Diabetes Mellitus After Curative Resection for Colorectal Cancer.
+      Cancer Res Commun (2021)  PMID 36860286  doi:10.1158/2767-9764.CRC-21-0042
+
+ 205. Establishment and Clinical Application of an Artificial Intelligence Diagnostic Platform for Identifying Rectal Cancer Tumor Budding.
+      Front Oncol (2021)  PMID 33763362  doi:10.3389/fonc.2021.626626
+
+ 206. Expression and Prognostic Value of the Immune Checkpoints Galectin-9 and PD-L1 in Glioblastomas.
+      J Neuropathol Exp Neurol (2021)  PMID 33990845  doi:10.1093/jnen/nlab041
+
+ 207. Expression of TMEM16A in Colorectal Cancer and Its Correlation With Clinical and Pathological Parameters.
+      Front Oncol (2021)  PMID 33816307  doi:10.3389/fonc.2021.652262
+
+ 208. Feasibility of deep learning-based fully automated classification of microsatellite instability in tissue slides of colorectal cancer.
+      Int J Cancer (2021)  PMID 33851412  doi:10.1002/ijc.33599
+
+ 209. High expression of microRNA-126 relates to favorable prognosis for colon cancer patients.
+      Sci Rep (2021)  PMID 33953222  doi:10.1038/s41598-021-87985-3
+
+ 210. High-Precision Quantitative Analysis Reveals Carcinoembryonic Protein Expression Differs Among Colorectal Cancer Primary Foci and Metastases to Different Sites.
+      Technol Cancer Res Treat (2021)  PMID 34342245  doi:10.1177/15330338211037175
+
+ 211. Histopathological characteristics and artificial intelligence for predicting tumor mutational burden-high colorectal cancer.
+      J Gastroenterol (2021)  PMID 33909150  doi:10.1007/s00535-021-01789-w
+
+ 212. Human-interpretable image features derived from densely mapped cancer pathology slides predict diverse molecular phenotypes.
+      Nat Commun (2021)  PMID 33712588  doi:10.1038/s41467-021-21896-9
+
+ 213. ImmunoAIzer: A Deep Learning-Based Computational Framework to Characterize Cell Distribution and Gene Mutation in Tumor Microenvironment.
+      Cancers (Basel) (2021)  PMID 33916145  doi:10.3390/cancers13071659
+
+ 214. Impact of PD-L1 and PD-1 Expression on the Prognostic Significance of CD8+ Tumor-Infiltrating Lymphocytes in Non-Small Cell Lung Cancer.
+      Front Immunol (2021)  PMID 34122444  doi:10.3389/fimmu.2021.680973
+
+ 215. Impact of peroxiredoxin-6 expression on colon adenocarcinoma.
+      J BUON (2021)  PMID 34761597
+
+ 216. In silico development and clinical validation of novel 8 gene signature based on lipid metabolism related genes in colon adenocarcinoma.
+      Pharmacol Res (2021)  PMID 33940186  doi:10.1016/j.phrs.2021.105644
+
+ 217. Integrative Analysis of Biomarkers Through Machine Learning Identifies Stemness Features in Colorectal Cancer.
+      Front Cell Dev Biol (2021)  PMID 34568334  doi:10.3389/fcell.2021.724860
+
+ 218. Interferon regulatory factor family influences tumor immunity and prognosis of patients with colorectal cancer.
+      J Transl Med (2021)  PMID 34488791  doi:10.1186/s12967-021-03054-3
+
+ 219. Intratumoral budding and automated CD8-positive T-cell density in pretreatment biopsies can predict response to neoadjuvant therapy in rectal adenocarcinoma.
+      Mod Pathol (2021)  PMID 32661298  doi:10.1038/s41379-020-0619-8
+
+ 220. Intratumoural immune signature to identify patients with primary colorectal cancer who do not require follow-up after resection: an observational study.
+      Health Technol Assess (2021)  PMID 33416473  doi:10.3310/hta25020
+
+ 221. LASSO-Based Machine Learning Algorithm for Prediction of Lymph Node Metastasis in T1 Colorectal Cancer.
+      Cancer Res Treat (2021)  PMID 33421980  doi:10.4143/crt.2020.974
+
+ 222. License to kill: microsatellite instability and immune contexture.
+      Oncoimmunology (2021)  PMID 33868790  doi:10.1080/2162402X.2021.1905935
+
+ 223. Microenvironmental markers are correlated with lymph node metastasis in invasive submucosal colorectal cancer.
+      Histopathology (2021)  PMID 33884652  doi:10.1111/his.14388
+
+ 224. Noxa upregulation and 5-gene apoptotic biomarker panel in colorectal cancer.
+      Eur J Clin Invest (2021)  PMID 32682341  doi:10.1111/eci.13353
+
+ 225. Orthogonal MET analysis in a population-representative stage II-III colon cancer cohort: prognostic and potential therapeutic implications.
+      Mol Oncol (2021)  PMID 34428346  doi:10.1002/1878-0261.13089
+
+ 226. PD-L1 as a Prognostic Factor in Early-Stage Colon Carcinoma within the Immunohistochemical Molecular Subtype Classification.
+      Cancers (Basel) (2021)  PMID 33920689  doi:10.3390/cancers13081943
+
+ 227. PD-L1+ dendritic cells in the tumor microenvironment correlate with good prognosis and CD8+ T cell infiltration in colon cancer.
+      Cancer Sci (2021)  PMID 33345422  doi:10.1111/cas.14781
+
+ 228. Predicting Neoadjuvant Chemoradiotherapy Response in Locally Advanced Rectal Cancer Using Tumor-Infiltrating Lymphocytes Density.
+      J Inflamm Res (2021)  PMID 34785927  doi:10.2147/JIR.S342214
+
+ 229. Prognostic value of a modified Immunoscore in patients with stage I-III resectable colon cancer.
+      Chin J Cancer Res (2021)  PMID 34321834  doi:10.21147/j.issn.1000-9604.2021.03.09
+
+ 230. Quantitative T2*-Weighted Imaging and Reduced Field-of-View Diffusion-Weighted Imaging of Rectal Cancer: Correlation of R2* and Apparent Diffusion Coefficient With Histopathological Prognostic Factors.
+      Front Oncol (2021)  PMID 34109120  doi:10.3389/fonc.2021.670156
+
+ 231. Relationship between Fusobacterium nucleatum and antitumor immunity in colorectal cancer liver metastasis.
+      Cancer Sci (2021)  PMID 34464993  doi:10.1111/cas.15126
+
+ 232. Removal of N-Linked Glycosylation Enhances PD-L1 Detection in Colon Cancer: Validation Research Based on Immunohistochemistry Analysis.
+      Technol Cancer Res Treat (2021)  PMID 34060360  doi:10.1177/15330338211019442
+
+ 233. Semiautomatic analysis of tumor proportion in colon cancer: Lessons from a validation study.
+      Pathol Res Pract (2021)  PMID 34628263  doi:10.1016/j.prp.2021.153634
+
+ 234. Stromal composition predicts recurrence of early rectal cancer after local excision.
+      Histopathology (2021)  PMID 34174109  doi:10.1111/his.14438
+
+ 235. Systemic Inflammation Associates With a Myeloid Inflamed Tumor Microenvironment in Primary Resected Colon Cancer-May Cold Tumors Simply Be Too Hot?
+      Front Immunol (2021)  PMID 34531864  doi:10.3389/fimmu.2021.716342
+
+ 236. T-cell complexity and density are associated with sensitivity to neoadjuvant chemoradiotherapy in patients with rectal cancer.
+      Cancer Immunol Immunother (2021)  PMID 32845355  doi:10.1007/s00262-020-02705-6
+
+ 237. The Effect of Quality Control on Accuracy of Digital Pathology Image Analysis.
+      IEEE J Biomed Health Inform (2021)  PMID 33347418  doi:10.1109/JBHI.2020.3046094
+
+ 238. The Transmembrane Receptor TIRC7 Identifies a Distinct Subset of Immune Cells with Prognostic Implications in Cholangiocarcinoma.
+      Cancers (Basel) (2021)  PMID 34944891  doi:10.3390/cancers13246272
+
+ 239. The prognostic value of CD3+ tumor-infiltrating lymphocytes for stage II colon cancer according to use of adjuvant chemotherapy: A large single-institution cohort study.
+      Transl Oncol (2021)  PMID 33338878  doi:10.1016/j.tranon.2020.100973
+
+ 240. The value of the tumour-stroma ratio for predicting neoadjuvant chemoradiotherapy response in locally advanced rectal cancer: a case control study.
+      BMC Cancer (2021)  PMID 34172021  doi:10.1186/s12885-021-08516-x
+
+ 241. Transcriptomic and Immunophenotypic Characterization of Tumor Immune Microenvironment in Squamous Cell Carcinoma of the Oral Tongue.
+      Head Neck Pathol (2021)  PMID 33010009  doi:10.1007/s12105-020-01229-w
+
+ 242. Tumor Microenvironment Mediators CD8+- and FOXP3+-Labeled T Lymphocytes Are Prospective Prognosticators in Curatively Treated Rectal Cancer Patients.
+      J Gastrointest Cancer (2021)  PMID 32112202  doi:10.1007/s12029-020-00376-1
+
+ 243. Tumor budding assessed according to the criteria of the International Tumor Budding Consensus Conference determines prognosis in resected esophageal adenocarcinoma.
+      Virchows Arch (2021)  PMID 32761393  doi:10.1007/s00428-020-02897-3
+
+ 244. Tumor microenvironment-adjusted prognostic implications of the KRAS mutation subtype in patients with stage III colorectal cancer treated with adjuvant FOLFOX.
+      Sci Rep (2021)  PMID 34272423  doi:10.1038/s41598-021-94044-4
+
+ 245. Tumour budding and CD8+ T cells: 'attackers' and 'defenders' in rectal cancer with and without neoadjuvant chemoradiotherapy.
+      Histopathology (2021)  PMID 33340423  doi:10.1111/his.14319
+
+ 246. Visceral obesity is associated with lower stage colon tumors in males without survival advantage.
+      Surg Oncol (2021)  PMID 34044270  doi:10.1016/j.suronc.2021.101606
+
+ 247. xDEEP-MSI: Explainable Bias-Rejecting Microsatellite Instability Deep Learning System in Colorectal Cancer.
+      Biomolecules (2021)  PMID 34944430  doi:10.3390/biom11121786
+
+ 248. A Novel Method for Identifying the Transition Zone in Long-Segment Hirschsprung Disease: Investigating the Muscle Unit to Ganglion Ratio.
+      Biomolecules (2022)  PMID 36008996  doi:10.3390/biom12081101
+
+ 249. A Novel Superpixel Approach to the Tumoral Microenvironment in Colorectal Cancer.
+      J Pathol Inform (2022)  PMID 35223135  doi:10.1016/j.jpi.2022.100009
+
+ 250. A combined spatial score of granzyme B and CD68 surpasses CD8 as an independent prognostic factor in TNM stage II colorectal cancer.
+      BMC Cancer (2022)  PMID 36114487  doi:10.1186/s12885-022-10048-x
+
+ 251. Accuracy of whole slide image based image analysis is adversely affected by preanalytical factors such as stained tissue slide and paraffin block age.
+      J Pathol Inform (2022)  PMID 36268058  doi:10.1016/j.jpi.2022.100121
+
+ 252. Analysis of anti-apoptotic PVT1 oncogene and apoptosis-related proteins (p53, Bcl2, PD-1, and PD-L1) expression in thyroid carcinoma.
+      J Clin Lab Anal (2022)  PMID 35388548  doi:10.1002/jcla.24390
+
+ 253. Artificial intelligence for quantifying Crohn's-like lymphoid reaction and tumor-infiltrating lymphocytes in colorectal cancer.
+      Comput Struct Biotechnol J (2022)  PMID 36284712  doi:10.1016/j.csbj.2022.09.039
+
+ 254. Artificial intelligence for quantifying immune infiltrates interacting with stroma in colorectal cancer.
+      J Transl Med (2022)  PMID 36195956  doi:10.1186/s12967-022-03666-3
+
+ 255. Assessment of Antimicrobial Effects on Broiler Gut Barrier Through Histopathology and Immunohistochemistry of Tight-Junction Proteins.
+      Front Vet Sci (2022)  PMID 35425830  doi:10.3389/fvets.2022.830073
+
+ 256. Auto-segmentation for total marrow irradiation.
+      Front Oncol (2022)  PMID 36110933  doi:10.3389/fonc.2022.970425
+
+ 257. Automated classification of protein expression levels in immunohistochemistry images to improve the detection of cancer biomarkers.
+      BMC Bioinformatics (2022)  PMID 36348299  doi:10.1186/s12859-022-05015-z
+
+ 258. Automatic Tumor Grading on Colorectal Cancer Whole-Slide Images: Semi-Quantitative Gland Formation Percentage and New Indicator Exploration.
+      Front Oncol (2022)  PMID 35646672  doi:10.3389/fonc.2022.833978
+
+ 259. CD47 overexpression is common in intestinal non-GCB type diffuse large B-cell lymphoma and associated with 18q21 gain.
+      Blood Adv (2022)  PMID 35475881  doi:10.1182/bloodadvances.2021006305
+
+ 260. CXCL8 expression is associated with advanced stage, right sidedness, and distinct histological features of colorectal cancer.
+      J Pathol Clin Res (2022)  PMID 35879507  doi:10.1002/cjp2.290
+
+ 261. Cell2Grid: an efficient, spatial, and convolutional neural network-ready representation of cell segmentation data.
+      J Med Imaging (Bellingham) (2022)  PMID 36466076  doi:10.1117/1.JMI.9.6.067501
+
+ 262. Chemoradiation-induced alteration of programmed death-ligand 1, CD8+ tumor-infiltrating lymphocytes and mucin expression in rectal cancer.
+      Oncotarget (2022)  PMID 35937503  doi:10.18632/oncotarget.28255
+
+ 263. Clinical Performance of the Consensus Immunoscore in Colon Cancer in the Asian Population from the Multicenter International SITC Study.
+      Cancers (Basel) (2022)  PMID 36139506  doi:10.3390/cancers14184346
+
+ 264. Clinical Significance of a CD3/CD8-Based Immunoscore in Neuroblastoma Patients Using Digital Pathology.
+      Front Immunol (2022)  PMID 35619699  doi:10.3389/fimmu.2022.878457
+
+ 265. Clinical, pathological genetics and intratumoral immune milieu of serrated adenocarcinoma of the colon.
+      Histopathology (2022)  PMID 35789111  doi:10.1111/his.14719
+
+ 266. Collagen score in the tumor microenvironment predicts the prognosis of rectal cancer patients after neoadjuvant chemoradiotherapy.
+      Radiother Oncol (2022)  PMID 34953935  doi:10.1016/j.radonc.2021.12.023
+
+ 267. Colon tumor CD31 expression is associated with higher disease-free survival in patients with metabolic syndrome.
+      Pathol Res Pract (2022)  PMID 36327819  doi:10.1016/j.prp.2022.154182
+
+ 268. Combination of CDX2 H-score quantitative analysis with CD3 AI-guided analysis identifies patients with a good prognosis only in stage III colon cancer.
+      Eur J Cancer (2022)  PMID 35785606  doi:10.1016/j.ejca.2022.05.040
+
+ 269. Combined Positive Score for Programmed Death Ligand-1 Expression and Inflammatory Microenvironment in Gastrointestinal Stromal Tumors.
+      Medicina (Kaunas) (2022)  PMID 35208498  doi:10.3390/medicina58020174
+
+ 270. Comparison of Immune Response Assessment in Colon Cancer by Immunoscore (Automated Digital Pathology) and Pathologist Visual Scoring.
+      Cancers (Basel) (2022)  PMID 35267475  doi:10.3390/cancers14051170
+
+ 271. Copy-number intratumor heterogeneity increases the risk of relapse in chemotherapy-naive stage II colon cancer.
+      J Pathol (2022)  PMID 35066875  doi:10.1002/path.5870
+
+ 272. Correlation between diffusion kurtosis and intravoxel incoherent motion derived (IVIM) parameters and tumor tissue composition in rectal cancer: a pilot study.
+      Abdom Radiol (NY) (2022)  PMID 35107589  doi:10.1007/s00261-022-03426-3
+
+ 273. Correlation of clinical, pathologic, and genetic parameters with intratumoral immune milieu in mucinous adenocarcinoma of the colon.
+      Mod Pathol (2022)  PMID 35590108  doi:10.1038/s41379-022-01095-7
+
+ 274. Deep Learning Analysis of the Adipose Tissue and the Prediction of Prognosis in Colorectal Cancer.
+      Front Nutr (2022)  PMID 35634419  doi:10.3389/fnut.2022.869263
+
+ 275. Deep learning features encode interpretable morphologies within histological images.
+      Sci Rep (2022)  PMID 35676395  doi:10.1038/s41598-022-13541-2
+
+ 276. Development and Validation of a Digital Analysis Method to Quantify CD3-immunostained T Lymphocytes in Whole Slide Images of Crohn's Disease Biopsies.
+      Appl Immunohistochem Mol Morphol (2022)  PMID 35587994  doi:10.1097/PAI.0000000000001035
+
+ 277. Development of a Fully Automated Method to Obtain Reproducible Lymphocyte Counts in Patients With Colorectal Cancer.
+      Appl Immunohistochem Mol Morphol (2022)  PMID 35703148  doi:10.1097/PAI.0000000000001041
+
+ 278. Development of a semi-automated method for tumour budding assessment in colorectal cancer and comparison with manual methods.
+      Histopathology (2022)  PMID 34580909  doi:10.1111/his.14574
+
+ 279. Digital image analysis provides robust tissue microenvironment-based prognosticators in patients with stage I-IV colorectal cancer.
+      Hum Pathol (2022)  PMID 35820451  doi:10.1016/j.humpath.2022.07.003
+
+ 280. Evaluation of the EdgeSeq Precision Immuno-Oncology Panel for Gene Expression Profiling From Clinical Formalin-Fixed Paraffin-Embedded Tumor Specimens.
+      Front Cell Dev Biol (2022)  PMID 35712667  doi:10.3389/fcell.2022.899353
+
+ 281. Expression and significance of miR-34 with PI3K, AKT and mTOR proteins in colorectal adenocarcinoma tissues.
+      Cell Mol Biol (Noisy-le-grand) (2022)  PMID 36905274  doi:10.14715/cmb/2022.68.9.9
+
+ 282. Expression of Programmed Death Ligand-2 is associated with Prognosis in Nasopharyngeal Carcinoma Microenviroment.
+      J Cancer (2022)  PMID 36606190  doi:10.7150/jca.77643
+
+ 283. Graph deep learning for the characterization of tumour microenvironments from spatial protein profiles in tissue specimens.
+      Nat Biomed Eng (2022)  PMID 36357512  doi:10.1038/s41551-022-00951-w
+
+ 284. HLA Class I Analysis Provides Insight Into the Genetic and Epigenetic Background of Immune Evasion in Colorectal Cancer With High Microsatellite Instability.
+      Gastroenterology (2022)  PMID 34687740  doi:10.1053/j.gastro.2021.10.010
+
+ 285. High Expression of a Cancer Stemness-Related Gene, Chromobox 8 (CBX8), in Normal Tissue Adjacent to the Tumor (NAT) Is Associated with Poor Prognosis of Colorectal Cancer Patients.
+      Cells (2022)  PMID 35681547  doi:10.3390/cells11111852
+
+ 286. Histopathologic and Molecular Biomarkers of PD-1/PD-L1 Inhibitor Treatment Response among Patients with Microsatellite Instability‒High Colon Cancer.
+      Cancer Res Treat (2022)  PMID 35038827  doi:10.4143/crt.2021.1133
+
+ 287. ICOSeg: Real-Time ICOS Protein Expression Segmentation from Immunohistochemistry Slides Using a Lightweight Conv-Transformer Network.
+      Cancers (Basel) (2022)  PMID 36010903  doi:10.3390/cancers14163910
+
+ 288. Identification and validation of immunotherapy for four novel clusters of colorectal cancer based on the tumor microenvironment.
+      Front Immunol (2022)  PMID 36389763  doi:10.3389/fimmu.2022.984480
+
+ 289. Identification of Essential Tumor-Infiltrating Immune Cells and Relevant Genes in Left-Sided and Right-Sided Colon Cancers.
+      Cancers (Basel) (2022)  PMID 36230637  doi:10.3390/cancers14194713
+
+ 290. Identification of a prognostic signature in colorectal cancer using combinatorial algorithm-driven analysis.
+      J Pathol Clin Res (2022)  PMID 35043584  doi:10.1002/cjp2.258
+
+ 291. Immune cell profiles in the tumor microenvironment of early-onset, intermediate-onset, and later-onset colorectal cancer.
+      Cancer Immunol Immunother (2022)  PMID 34529108  doi:10.1007/s00262-021-03056-6
+
+ 292. Immunoscore Is Prognostic in Low-Risk and High-Risk Stage III Colon Carcinomas Treated With Adjuvant Infusional Fluorouracil, Leucovorin, and Oxaliplatin in a Phase III Trial.
+      JCO Precis Oncol (2022)  PMID 35952316  doi:10.1200/PO.22.00010
+
+ 293. Immunosuppressive niche engineering at the onset of human colorectal cancer.
+      Nat Commun (2022)  PMID 35379804  doi:10.1038/s41467-022-29027-8
+
+ 294. Intratumoral spatial heterogeneity of tumor-infiltrating lymphocytes is a significant factor for precisely stratifying prognostic immune subgroups of microsatellite instability-high colorectal carcinomas.
+      Mod Pathol (2022)  PMID 35869301  doi:10.1038/s41379-022-01137-0
+
+ 295. Is High Expression of Claudin-7 in Advanced Colorectal Carcinoma Associated with a Poor Survival Rate? A Comparative Statistical and Artificial Intelligence Study.
+      Cancers (Basel) (2022)  PMID 35740581  doi:10.3390/cancers14122915
+
+ 296. MIXTURE of human expertise and deep learning-developing an explainable model for predicting pathological diagnosis and survival in patients with interstitial lung disease.
+      Mod Pathol (2022)  PMID 35197560  doi:10.1038/s41379-022-01025-7
+
+ 297. Molecular Basis of Extramural Vascular Invasion (EMVI) in Colorectal Carcinoma.
+      Ann Surg Oncol (2022)  PMID 35917013  doi:10.1245/s10434-022-12212-w
+
+ 298. Molecular Characteristics, Oncogenic Roles, and Relevant Immune and Pharmacogenomic Features of EVA1B in Colorectal Cancer.
+      Front Immunol (2022)  PMID 35250982  doi:10.3389/fimmu.2022.809837
+
+ 299. PSEN1 is associated with colon cancer development via potential influences on PD-L1 nuclear translocation and tumor-immune interactions.
+      Front Immunol (2022)  PMID 36059511  doi:10.3389/fimmu.2022.927474
+
+ 300. Poorly differentiated clusters and tumor budding are important prognostic factors in colorectal carcinomas.
+      Bosn J Basic Med Sci (2022)  PMID 34480464  doi:10.17305/bjbms.2021.6110
+
+ 301. Post-operative anastomotic leakage and collagen changes in patients with rectal cancer undergoing neoadjuvant chemotherapy vs chemoradiotherapy.
+      Gastroenterol Rep (Oxf) (2022)  PMID 36324613  doi:10.1093/gastro/goac058
+
+ 302. Predicting colorectal cancer tumor mutational burden from histopathological images and clinical information using multi-modal deep learning.
+      Bioinformatics (2022)  PMID 36130268  doi:10.1093/bioinformatics/btac641
+
+ 303. Programmed death-ligand 1 expression in the immune compartment of colon carcinoma.
+      Mod Pathol (2022)  PMID 35773332  doi:10.1038/s41379-022-01128-1
+
+ 304. Quantifying Spatial Heterogeneity of Tumor-Infiltrating Lymphocytes to Predict Survival of Individual Cancer Patients.
+      J Pers Med (2022)  PMID 35887610  doi:10.3390/jpm12071113
+
+ 305. Quantitative Pathologic Analysis of Digitized Images of Colorectal Carcinoma Improves Prediction of Recurrence-Free Survival.
+      Gastroenterology (2022)  PMID 35985511  doi:10.1053/j.gastro.2022.08.025
+
+ 306. Secretory Phospholipase A2 Digital Expression Analysis in Colon Adenocarcinoma.
+      In Vivo (2022)  PMID 35241529  doi:10.21873/invivo.12760
+
+ 307. Smoking and Incidence of Colorectal Cancer Subclassified by Tumor-Associated Macrophage Infiltrates.
+      J Natl Cancer Inst (2022)  PMID 34264325  doi:10.1093/jnci/djab142
+
+ 308. Spatial Immunology in Liver Metastases from Colorectal Carcinoma according to the Histologic Growth Pattern.
+      Cancers (Basel) (2022)  PMID 35158957  doi:10.3390/cancers14030689
+
+ 309. Spatial analysis and CD25-expression identify regulatory T cells as predictors of a poor prognosis in colorectal cancer.
+      Mod Pathol (2022)  PMID 35484226  doi:10.1038/s41379-022-01086-8
+
+ 310. Spatial analysis of tumor-infiltrating lymphocytes in histological sections using deep learning techniques predicts survival in colorectal carcinoma.
+      J Pathol Clin Res (2022)  PMID 35484698  doi:10.1002/cjp2.273
+
+ 311. Spatial heterogeneity of cancer associated protein expression in immunohistochemically stained images as an improved prognostic biomarker.
+      Front Oncol (2022)  PMID 36601480  doi:10.3389/fonc.2022.964716
+
+ 312. Spatial transcriptomics prediction from histology jointly through Transformer and graph neural networks.
+      Brief Bioinform (2022)  PMID 35849101  doi:10.1093/bib/bbac297
+
+ 313. Spatially aware graph neural networks and cross-level molecular profile prediction in colon cancer histopathology: a retrospective multi-cohort study.
+      Lancet Digit Health (2022)  PMID 36307192  doi:10.1016/S2589-7500(22)00168-6
+
+ 314. Super-resolved spatial transcriptomics by deep data fusion.
+      Nat Biotechnol (2022)  PMID 34845373  doi:10.1038/s41587-021-01075-3
+
+ 315. The Cancer-Associated Fibroblasts-Related Gene COMP Is a Novel Predictor for Prognosis and Immunotherapy Efficacy and Is Correlated with M2 Macrophage Infiltration in Colon Cancer.
+      Biomolecules (2022)  PMID 36671447  doi:10.3390/biom13010062
+
+ 316. The Crohn's-like lymphoid reaction density: a new artificial intelligence quantified prognostic immune index in colon cancer.
+      Cancer Immunol Immunother (2022)  PMID 34642778  doi:10.1007/s00262-021-03079-z
+
+ 317. The Underlying Roles of Exosome-Associated PIGR in Fatty Acid Metabolism and Immune Signaling in Colorectal Cancer.
+      J Oncol (2022)  PMID 36157233  doi:10.1155/2022/4675683
+
+ 318. The clinicopathological features of programmed death ligand-1 expression in colorectal carcinoma.
+      Int J Biol Markers (2022)  PMID 35635229  doi:10.1177/03936155221104122
+
+ 319. The prognostic impact of PD-L1 and CD8 expression in anal cancer patients treated with chemoradiotherapy.
+      Front Oncol (2022)  PMID 36276142  doi:10.3389/fonc.2022.1000263
+
+ 320. Universal encoding of pan-cancer histology by deep texture representations.
+      Cell Rep (2022)  PMID 35235802  doi:10.1016/j.celrep.2022.110424
+
+ 321. Utilizing Deep Learning to Analyze Whole Slide Images of Colonic Biopsies for Associations Between Eosinophil Density and Clinicopathologic Features in Active Ulcerative Colitis.
+      Inflamm Bowel Dis (2022)  PMID 34106256  doi:10.1093/ibd/izab122
+
+ 322. Vascular E-selectin Expression Detected in Formalin-fixed, Paraffin-embedded Sections With an E-selectin Monoclonal Antibody Correlates With Ulcerative Colitis Activity.
+      J Histochem Cytochem (2022)  PMID 35253509  doi:10.1369/00221554221085336
+
+ 323. 3D multiplexed tissue imaging reconstruction and optimized region of interest (ROI) selection through deep learning model of channels embedding.
+      Front Bioinform (2023)  PMID 37928169  doi:10.3389/fbinf.2023.1275402
+
+ 324. A dataset of tumour-infiltrating lymphocytes in colorectal cancer patients using limited resources.
+      Database (Oxford) (2023)  PMID 38104276  doi:10.1093/database/baad089
+
+ 325. A machine learning approach toward automating spatial identification of LAG3+/CD3+ cells in ulcerative colitis.
+      Sci Rep (2023)  PMID 38066073  doi:10.1038/s41598-023-49163-5
+
+ 326. A multi-class classification algorithm based on hematoxylin-eosin staining for neoadjuvant therapy in rectal cancer: a retrospective study.
+      PeerJ (2023)  PMID 37334122  doi:10.7717/peerj.15408
+
+ 327. A neutrophil extracellular traps-related classification predicts prognosis and response to immunotherapy in colon cancer.
+      Sci Rep (2023)  PMID 37935721  doi:10.1038/s41598-023-45558-6
+
+ 328. A nomogram based on collagen signature for predicting the immunoscore in colorectal cancer.
+      Front Immunol (2023)  PMID 37781377  doi:10.3389/fimmu.2023.1269700
+
+ 329. A novel deep learning-based algorithm combining histopathological features with tissue areas to predict colorectal cancer survival from whole-slide images.
+      J Transl Med (2023)  PMID 37848862  doi:10.1186/s12967-023-04530-8
+
+ 330. A pan-cancer landscape of centromere proteins in tumorigenesis and anticancer drug sensitivity.
+      Transl Oncol (2023)  PMID 36944275  doi:10.1016/j.tranon.2023.101658
+
+ 331. A prognostic score based on B cell and plasma cell densities compared to T cell densities in colorectal cancer.
+      Int J Colorectal Dis (2023)  PMID 36800011  doi:10.1007/s00384-023-04322-y
+
+ 332. A type I interferon footprint in pre-operative biopsies is an independent biomarker that in combination with CD8+ T cell quantification can improve the prediction of response to neoadjuvant treatment of rectal adenocarcinoma.
+      Oncoimmunology (2023)  PMID 37180638  doi:10.1080/2162402X.2023.2209473
+
+ 333. ATAT: Automated Tissue Alignment and Traversal in Spatial Transcriptomics with Self-Supervised Learning.
+      bioRxiv (2023)  PMID 38106010  doi:10.1101/2023.12.08.570839
+
+ 334. Accounting for intensity variation in image analysis of large-scale multiplexed clinical trial datasets.
+      J Pathol Clin Res (2023)  PMID 37697694  doi:10.1002/cjp2.342
+
+ 335. Activated tissue resident memory T-cells (CD8+CD103+CD39+) uniquely predict survival in left sided "immune-hot" colorectal cancers.
+      Front Immunol (2023)  PMID 37251410  doi:10.3389/fimmu.2023.1057292
+
+ 336. An artificial intelligence-based ecological index for prognostic evaluation of colorectal cancer.
+      BMC Cancer (2023)  PMID 37592224  doi:10.1186/s12885-023-11289-0
+
+ 337. Analysis of Spatial Molecular Data.
+      Methods Mol Biol (2023)  PMID 36587134  doi:10.1007/978-1-0716-2914-7_20
+
+ 338. Angiogenesis regulators S100A4, SPARC and SPP1 correlate with macrophage infiltration and are prognostic biomarkers in colon and rectal cancers.
+      Front Oncol (2023)  PMID 36895491  doi:10.3389/fonc.2023.1058337
+
+ 339. Application of 3D-reconstruction and artificial intelligence for complete mesocolic excision and D3 lymphadenectomy in colon cancer.
+      Cir Esp (Engl Ed) (2023)  PMID 36709852  doi:10.1016/j.cireng.2023.01.006
+
+ 340. Artificial intelligence-assisted analysis for tumor-immune interaction within the invasive margin of colorectal cancer.
+      Ann Med (2023)  PMID 37224471  doi:10.1080/07853890.2023.2215541
+
+ 341. Artificial intelligence-powered spatial analysis of tumor-infiltrating lymphocytes for prediction of prognosis in resected colon cancer.
+      NPJ Precis Oncol (2023)  PMID 37985785  doi:10.1038/s41698-023-00470-0
+
+ 342. Automating Ground Truth Annotations for Gland Segmentation Through Immunohistochemistry.
+      Mod Pathol (2023)  PMID 37716506  doi:10.1016/j.modpat.2023.100331
+
+ 343. Carbonic Anhydrase IX (CAIX) Expressing Hypoxic Micro-environment Hampers CD8+ Immune Cell Infiltrate in Breast Carcinoma.
+      Appl Immunohistochem Mol Morphol (2023)  PMID 36476599  doi:10.1097/PAI.0000000000001082
+
+ 344. Characterization of endoplasmic reticulum stress unveils ZNF703 as a promising target for colorectal cancer immunotherapy.
+      J Transl Med (2023)  PMID 37821882  doi:10.1186/s12967-023-04547-z
+
+ 345. Chemerin and Chemokine-like Receptor 1 Are Not Prognostic in Colorectal Carcinoma.
+      Anticancer Res (2023)  PMID 36697076  doi:10.21873/anticanres.16225
+
+ 346. China special issue on gastrointestinal tumors-Regulatory-immunoscore-A novel indicator to guide precision adjuvant chemotherapy in colorectal cancer.
+      Int J Cancer (2023)  PMID 37085990  doi:10.1002/ijc.34539
+
+ 347. Classification of IHC Images of NATs With ResNet-FRP-LSTM for Predicting Survival Rates of Rectal Cancer Patients.
+      IEEE J Transl Eng Health Med (2023)  PMID 36704244  doi:10.1109/JTEHM.2022.3229561
+
+ 348. Clinical predominance of whole-exome sequencing to evaluate microsatellite instability status.
+      Cancer Sci (2023)  PMID 37119014  doi:10.1111/cas.15813
+
+ 349. Clinicopathological features and prognostic impact of dirty necrosis in metastatic lung cancers from the colon and rectum.
+      Cancer Sci (2023)  PMID 36369892  doi:10.1111/cas.15647
+
+ 350. Comprehensive Characterization of RNA-Binding Proteins in Colon Adenocarcinoma Identifies a Novel Prognostic Signature for Predicting Clinical Outcomes and Immunotherapy Responses Based on Machine Learning.
+      Comb Chem High Throughput Screen (2023)  PMID 35379120  doi:10.2174/1386207325666220404125228
+
+ 351. Comprehensive characterization of tumor microenvironment in colorectal cancer via molecular analysis.
+      Elife (2023)  PMID 37267125  doi:10.7554/eLife.86032
+
+ 352. Deciphering tumor ecosystems at super resolution from spatial transcriptomics with TESLA.
+      Cell Syst (2023)  PMID 37164011  doi:10.1016/j.cels.2023.03.008
+
+ 353. Decoding mTOR signalling heterogeneity in the tumour microenvironment using multiplexed imaging and graph convolutional networks.
+      bioRxiv (2023)  PMID 38234756  doi:10.1101/2023.12.30.573693
+
+ 354. Deep learning based tumor-stroma ratio scoring in colon cancer correlates with microscopic assessment.
+      J Pathol Inform (2023)  PMID 36794267  doi:10.1016/j.jpi.2023.100191
+
+ 355. Deep learning for the prediction of the chemotherapy response of metastatic colorectal cancer: comparing and combining H&E staining histopathology and infrared spectral histopathology.
+      Analyst (2023)  PMID 37466305  doi:10.1039/d3an00627a
+
+ 356. Deep learning-based image analysis reveals significant differences in the number and distribution of mucosal CD3 and γδ T cells between Crohn's disease and ulcerative colitis.
+      J Pathol Clin Res (2023)  PMID 36416283  doi:10.1002/cjp2.301
+
+ 357. Deep learning-based morphological feature analysis and the prognostic association study in colon adenocarcinoma histopathological images.
+      Front Oncol (2023)  PMID 36845699  doi:10.3389/fonc.2023.1081529
+
+ 358. Deep-learning model AIBISI predicts bacterial infection across cancer types based on pathological images.
+      Heliyon (2023)  PMID 37101624  doi:10.1016/j.heliyon.2023.e15400
+
+ 359. DeepBLS: Deep Feature-Based Broad Learning System for Tissue Phenotyping in Colorectal Cancer WSIs.
+      J Digit Imaging (2023)  PMID 37059892  doi:10.1007/s10278-023-00797-x
+
+ 360. Deepfake Histologic Images for Enhancing Digital Pathology.
+      Lab Invest (2023)  PMID 36748189  doi:10.1016/j.labinv.2022.100006
+
+ 361. Development and Validation of a Machine Learning Model for Detection and Classification of Tertiary Lymphoid Structures in Gastrointestinal Cancers.
+      JAMA Netw Open (2023)  PMID 36692877  doi:10.1001/jamanetworkopen.2022.52553
+
+ 362. Development and validation of an integrative pan-solid tumor predictor of PD-1/PD-L1 blockade benefit.
+      Commun Med (Lond) (2023)  PMID 36750617  doi:10.1038/s43856-023-00243-7
+
+ 363. Development and validation of artificial intelligence-based prescreening of large-bowel biopsies taken in the UK and Portugal: a retrospective cohort study.
+      Lancet Digit Health (2023)  PMID 37890902  doi:10.1016/S2589-7500(23)00148-6
+
+ 364. Differential Immune Infiltration Profiles in Colitis-Associated Colorectal Cancer versus Sporadic Colorectal Cancer.
+      Cancers (Basel) (2023)  PMID 37835436  doi:10.3390/cancers15194743
+
+ 365. Domain-specific transfer learning in the automated scoring of tumor-stroma ratio from histopathological images of colorectal cancer.
+      PLoS One (2023)  PMID 37235626  doi:10.1371/journal.pone.0286270
+
+ 366. Exploring the glycolytic cross-talk genes between inflammatory bowel disease and colorectal cancer.
+      Funct Integr Genomics (2023)  PMID 37428395  doi:10.1007/s10142-023-01170-5
+
+ 367. Facts and Hopes on the Use of Artificial Intelligence for Predictive Immunotherapy Biomarkers in Cancer.
+      Clin Cancer Res (2023)  PMID 36083132  doi:10.1158/1078-0432.CCR-22-0390
+
+ 368. From slides to insights: Harnessing deep learning for prognostic survival prediction in human colorectal cancer histology.
+      Open Life Sci (2023)  PMID 38152577  doi:10.1515/biol-2022-0777
+
+ 369. Fully Automated Tumor Bud Assessment in Hematoxylin and Eosin-Stained Whole Slide Images of Colorectal Cancer.
+      Mod Pathol (2023)  PMID 37257824  doi:10.1016/j.modpat.2023.100233
+
+ 370. Gene expression profiling and multiplex immunofluorescence analysis of bullous pemphigoid immune-related adverse event reveal upregulation of toll-like receptor 4/complement-induced innate immune response and increased density of TH 1 T-cells.
+      J Cutan Pathol (2023)  PMID 37150813  doi:10.1111/cup.14442
+
+ 371. Generation of colon cancer-derived tumor-infiltrating T cells (TILs) for adoptive cell therapy.
+      Cytotherapy (2023)  PMID 36775787  doi:10.1016/j.jcyt.2023.01.009
+
+ 372. High Expression of IRS-1, RUNX3 and SMAD4 Are Positive Prognostic Factors in Stage I-III Colon Cancer.
+      Cancers (Basel) (2023)  PMID 36900240  doi:10.3390/cancers15051448
+
+ 373. High iNOS and IL-1β immunoreactivity are features of colitis-associated colorectal cancer tumors, but fail to predict 5-year survival.
+      Ups J Med Sci (2023)  PMID 38187473  doi:10.48101/ujms.v128.10241
+
+ 374. Histochemical and biochemical analysis of collagen content in formalin-fixed, paraffin embedded colonic samples.
+      MethodsX (2023)  PMID 37876831  doi:10.1016/j.mex.2023.102416
+
+ 375. Histopathology image classification: highlighting the gap between manual analysis and AI automation.
+      Front Oncol (2023)  PMID 38298445  doi:10.3389/fonc.2023.1325271
+
+ 376. Homogeneity in immune features between colorectal liver metastases better identifies patients with good prognosis compared to pathological response to preoperative chemotherapy.
+      Oncoimmunology (2023)  PMID 37720689  doi:10.1080/2162402X.2023.2253642
+
+ 377. Identification of antisense and sense RNAs of intracrine fibroblast growth factor components as novel biomarkers in colorectal cancer and in silico studies for drug and nanodrug repurposing.
+      Environ Res (2023)  PMID 37805185  doi:10.1016/j.envres.2023.117117
+
+ 378. Identifying spatial domain by adapting transcriptomics with histology through contrastive learning.
+      Brief Bioinform (2023)  PMID 36781228  doi:10.1093/bib/bbad048
+
+ 379. Immune Marker Spatial Distribution and Clinical Outcome after PD-1 Blockade in Mismatch Repair-deficient, Advanced Colorectal Carcinomas.
+      Clin Cancer Res (2023)  PMID 37566222  doi:10.1158/1078-0432.CCR-23-1109
+
+ 380. Immune Microenvironment in Sporadic Early-Onset versus Average-Onset Colorectal Cancer.
+      Cancers (Basel) (2023)  PMID 36900249  doi:10.3390/cancers15051457
+
+ 381. Immune microenvironment and lymph node yield in colorectal cancer.
+      Br J Cancer (2023)  PMID 37507544  doi:10.1038/s41416-023-02372-1
+
+ 382. Improved accuracy in colorectal cancer tissue decomposition through refinement of established deep learning solutions.
+      Sci Rep (2023)  PMID 37741820  doi:10.1038/s41598-023-42357-x
+
+ 383. Increased expression of GIPC2 in colon adenocarcinoma is associated with a favorable prognosis and high levels of immune cell infiltration.
+      Oncol Rep (2023)  PMID 36799193  doi:10.3892/or.2023.8503
+
+ 384. Inferring spatial transcriptomics markers from whole slide images to characterize metastasis-related spatial heterogeneity of colorectal tumors: A pilot study.
+      J Pathol Inform (2023)  PMID 37114077  doi:10.1016/j.jpi.2023.100308
+
+ 385. Integrative deep learning analysis improves colon adenocarcinoma patient stratification at risk for mortality.
+      EBioMedicine (2023)  PMID 37499603  doi:10.1016/j.ebiom.2023.104726
+
+ 386. Inverse relationship between Fusobacterium nucleatum amount and tumor CD274 (PD-L1) expression in colorectal carcinoma.
+      Clin Transl Immunology (2023)  PMID 37538192  doi:10.1002/cti2.1453
+
+ 387. Label-free multiphoton microscopy enables histopathological assessment of colorectal liver metastases and supports automated classification of neoplastic tissue.
+      Sci Rep (2023)  PMID 36922643  doi:10.1038/s41598-023-31401-5
+
+ 388. Localization and density of tertiary lymphoid structures associate with molecular subtype and clinical outcome in colorectal cancer liver metastases.
+      J Immunother Cancer (2023)  PMID 36759015  doi:10.1136/jitc-2022-006425
+
+ 389. Molecular and immunological characteristics of patients with CMTM6 low expression colorectal cancer.
+      Medicine (Baltimore) (2023)  PMID 38115316  doi:10.1097/MD.0000000000036480
+
+ 390. Molecular signature incorporating the immune microenvironment enhances thyroid cancer outcome prediction.
+      Cell Genom (2023)  PMID 37868034  doi:10.1016/j.xgen.2023.100409
+
+ 391. Multi-Institutional Evaluation of Pathologists' Assessment Compared to Immunoscore.
+      Cancers (Basel) (2023)  PMID 37627073  doi:10.3390/cancers15164045
+
+ 392. Multicenter International Study of the Consensus Immunoscore for the Prediction of Relapse and Survival in Early-Stage Colon Cancer.
+      Cancers (Basel) (2023)  PMID 36672367  doi:10.3390/cancers15020418
+
+ 393. Multiplexed 3D atlas of state transitions and immune interaction in colorectal cancer.
+      Cell (2023)  PMID 36669472  doi:10.1016/j.cell.2022.12.028
+
+ 394. Multiplexed Immunofluorescence Imaging Reveals an Immune-Rich Tumor Microenvironment in Mucinous Rectal Cancer Characterized by Increased Lymphocyte Infiltration and Enhanced Programmed Cell Death Protein 1 Expression.
+      Dis Colon Rectum (2023)  PMID 36525395  doi:10.1097/DCR.0000000000002624
+
+ 395. Multistain deep learning for prediction of prognosis and therapy response in colorectal cancer.
+      Nat Med (2023)  PMID 36624314  doi:10.1038/s41591-022-02134-1
+
+ 396. Nonredundant Upregulation of CD112R (PVRIG) and PD-1 on Cytotoxic T Lymphocytes Located in T Cell Nests of Colorectal Cancer.
+      Mod Pathol (2023)  PMID 36788088  doi:10.1016/j.modpat.2022.100089
+
+ 397. Novel quantitative immunohistochemical analysis for evaluating PD-L1 expression with phosphor-integrated dots for predicting the efficacy of patients with cancer treated with immune checkpoint inhibitors.
+      Front Immunol (2023)  PMID 37790929  doi:10.3389/fimmu.2023.1260492
+
+ 398. Optimising multiplex immunofluorescence staining for characterising the tumour immune micro-environment.
+      Methods (2023)  PMID 37741563  doi:10.1016/j.ymeth.2023.09.004
+
+ 399. PET/CT imaging fibroblast activation protein in initial colorectal cancer: compared to 18 F-FDG PET/CT.
+      Nucl Med Commun (2023)  PMID 37661771  doi:10.1097/MNM.0000000000001751
+
+ 400. Peritumoral Immune-suppressive Mechanisms Impede Intratumoral Lymphocyte Infiltration into Colorectal Cancer Liver versus Lung Metastases.
+      Cancer Res Commun (2023)  PMID 37768208  doi:10.1158/2767-9764.CRC-23-0212
+
+ 401. Predicting Crohn's disease severity in the colon using mixed cell nucleus density from pseudo labels.
+      Proc SPIE Int Soc Opt Eng (2023)  PMID 37465840  doi:10.1117/12.2653918
+
+ 402. Predicting Microenvironment in CXCR4- and FAP-Positive Solid Tumors-A Pan-Cancer Machine Learning Workflow for Theranostic Target Structures.
+      Cancers (Basel) (2023)  PMID 36672341  doi:10.3390/cancers15020392
+
+ 403. Prognostic Significance of Tumor-Infiltrating Lymphocytes Determined Using LinkNet on Colorectal Cancer Pathology Images.
+      JCO Precis Oncol (2023)  PMID 36848612  doi:10.1200/PO.22.00522
+
+ 404. Prognostic and biological function value of OSBPL3 in colorectal cancer analyzed by multi-omic data analysis.
+      BMC Gastroenterol (2023)  PMID 37550605  doi:10.1186/s12876-023-02824-1
+
+ 405. Prognostic prediction based on histopathologic features of tumor microenvironment in colorectal cancer.
+      Front Med (Lausanne) (2023)  PMID 37089601  doi:10.3389/fmed.2023.1154077
+
+ 406. Prognostic value of COL10A1 and its correlation with tumor-infiltrating immune cells in urothelial bladder cancer: A comprehensive study based on bioinformatics and clinical analysis validation.
+      Front Immunol (2023)  PMID 37006317  doi:10.3389/fimmu.2023.955949
+
+ 407. QuPath Algorithm Accurately Identifies MLH1-Deficient Inflammatory Bowel Disease-Associated Colorectal Cancers in a Tissue Microarray.
+      Diagnostics (Basel) (2023)  PMID 37296742  doi:10.3390/diagnostics13111890
+
+ 408. Quantitative Morphometry and Machine Learning Model to Explore Duodenal and Rectal Mucosal Tissue of Children with Environmental Enteric Dysfunction.
+      Am J Trop Med Hyg (2023)  PMID 36913924  doi:10.4269/ajtmh.22-0063
+
+ 409. Relationship between the Warburg effect in tumour cells and the tumour microenvironment in colorectal cancer patients: Results from a large multicentre study.
+      Pathol Res Pract (2023)  PMID 37209573  doi:10.1016/j.prp.2023.154518
+
+ 410. Research on the pathological mechanism of rectal adenocarcinoma based on DNA methylation.
+      Medicine (Baltimore) (2023)  PMID 36705386  doi:10.1097/MD.0000000000032763
+
+ 411. Role Of Cd8+ Tumour-Infiltrating Lymphocytes In Predicting Regional Lymph Node Metastasis In Lip And Oral Cavity Squamous Cell Carcinoma.
+      J Ayub Med Coll Abbottabad (2023)  PMID 37422823  doi:10.55519/JAMC-02-11654
+
+ 412. Semi-Supervised Learning to Automate Tumor Bud Detection in Cytokeratin-Stained Whole-Slide Images of Colorectal Cancer.
+      Cancers (Basel) (2023)  PMID 37046742  doi:10.3390/cancers15072079
+
+ 413. Simplified and Optimized Immune Score for Colorectal Cancer Microenvironment.
+      Anticancer Res (2023)  PMID 37500158  doi:10.21873/anticanres.16565
+
+ 414. Spatial Omics Driven Crossmodal Pretraining Applied to Graph-based Deep Learning for Cancer Pathology Analysis.
+      bioRxiv (2023)  PMID 37577686  doi:10.1101/2023.07.30.551187
+
+ 415. Spatially resolved multimarker evaluation of CD274 (PD-L1)/PDCD1 (PD-1) immune checkpoint expression and macrophage polarisation in colorectal cancer.
+      Br J Cancer (2023)  PMID 37002343  doi:10.1038/s41416-023-02238-6
+
+ 416. Stromal Changes in Colon Blastomogenesis Associated with Development of Hypoxia in the Foci of Dysplasia.
+      Bull Exp Biol Med (2023)  PMID 36899201  doi:10.1007/s10517-023-05737-x
+
+ 417. The Overlooked Role of Specimen Preparation in Bolstering Deep Learning-Enhanced Spatial Transcriptomics Workflows.
+      medRxiv (2023)  PMID 37873287  doi:10.1101/2023.10.09.23296700
+
+ 418. The anoikis-related gene signature predicts survival accurately in colon adenocarcinoma.
+      Sci Rep (2023)  PMID 37626132  doi:10.1038/s41598-023-40907-x
+
+ 419. Total T Cell Density and Expression of T Memory Stem Cell Markers are Associated with Better Prognosis in Colon Cancer.
+      Int J Gen Med (2023)  PMID 37304906  doi:10.2147/IJGM.S411122
+
+ 420. Transcriptomes of the tumor-adjacent normal tissues are more informative than tumors in predicting recurrence in colorectal cancer patients.
+      J Transl Med (2023)  PMID 36941605  doi:10.1186/s12967-023-04053-2
+
+ 421. Transcriptomics and proteomics reveal distinct biology for lymph node metastases and tumour deposits in colorectal cancer.
+      J Pathol (2023)  PMID 37792663  doi:10.1002/path.6196
+
+ 422. Tumor-Stroma Ratio in Colorectal Cancer-Comparison between Human Estimation and Automated Assessment.
+      Cancers (Basel) (2023)  PMID 37345012  doi:10.3390/cancers15102675
+
+ 423. Two tripartite classification systems of CD86+ and CD206+ macrophages are significantly associated with tumor recurrence in stage II-III colorectal cancer.
+      Front Immunol (2023)  PMID 37342343  doi:10.3389/fimmu.2023.1136875
+
+ 424. Value of the Tumor-Stroma Ratio and Structural Heterogeneity Measured by a Novel Semiautomatic Image Analysis Technique for Predicting Survival in Patients With Colon Cancer.
+      Dis Colon Rectum (2023)  PMID 36649165  doi:10.1097/DCR.0000000000002570
+
+ 425. Wavelet scattering networks in deep learning for discovering protein markers in a cohort of Swedish rectal cancer patients.
+      Cancer Med (2023)  PMID 38014709  doi:10.1002/cam4.6672
+
+ 426. A Novel Artificial Intelligence-Based Parameterization Approach of the Stromal Landscape in Merkel Cell Carcinoma: A Multi-Institutional Study.
+      Lab Invest (2024)  PMID 39147033  doi:10.1016/j.labinv.2024.102123
+
+ 427. A Pipeline for Evaluation of Machine Learning/Artificial Intelligence Models to Quantify Programmed Death Ligand 1 Immunohistochemistry.
+      Lab Invest (2024)  PMID 38677590  doi:10.1016/j.labinv.2024.102070
+
+ 428. A contrastive learning approach to integrate spatial transcriptomics and histological images.
+      Comput Struct Biotechnol J (2024)  PMID 38707535  doi:10.1016/j.csbj.2024.04.039
+
+ 429. A deep-learning framework to predict cancer treatment response from histopathology images through imputed transcriptomics.
+      Nat Cancer (2024)  PMID 38961276  doi:10.1038/s43018-024-00793-2
+
+ 430. A graph self-supervised residual learning framework for domain identification and data integration of spatial transcriptomics.
+      Commun Biol (2024)  PMID 39266614  doi:10.1038/s42003-024-06814-1
+
+ 431. Adapting SAM to Histopathology Images for Tumor Bud Segmentation in Colorectal Cancer.
+      Proc SPIE Int Soc Opt Eng (2024)  PMID 38765185  doi:10.1117/12.3006517
+
+ 432. Advantages of automated immunostain analyses for complex membranous immunostains: An exemplar investigating loss of E-cadherin expression in colorectal cancer.
+      Pathol Res Pract (2024)  PMID 39032383  doi:10.1016/j.prp.2024.155470
+
+ 433. An Innovative and Accurate Next-Generation Sequencing-Based Microsatellite Instability Detection Method for Colorectal and Endometrial Tumors.
+      Lab Invest (2024)  PMID 38008183  doi:10.1016/j.labinv.2023.100297
+
+ 434. An initial game-theoretic assessment of enhanced tissue preparation and imaging protocols for improved deep learning inference of spatial transcriptomics from tissue morphology.
+      Brief Bioinform (2024)  PMID 39367648  doi:10.1093/bib/bbae476
+
+ 435. Artificial intelligence-based analysis of tumor-infiltrating lymphocyte spatial distribution for colorectal cancer prognosis.
+      Chin Med J (Engl) (2024)  PMID 38238158  doi:10.1097/CM9.0000000000002964
+
+ 436. Association of Collagen Changes in Distal Anastomotic Margin and Anastomotic Stenosis after Neoadjuvant Chemoradiotherapy for Rectal Cancer.
+      J Am Coll Surg (2024)  PMID 38752618  doi:10.1097/XCS.0000000000001116
+
+ 437. Center-Focused Affinity Loss for Class Imbalance Histology Image Classification.
+      IEEE J Biomed Health Inform (2024)  PMID 37999960  doi:10.1109/JBHI.2023.3336372
+
+ 438. Clinical, pathological, genetics and intratumoural immune milieu of micropapillary carcinoma of the colon.
+      J Clin Pathol (2024)  PMID 37258254  doi:10.1136/jcp-2023-208895
+
+ 439. CoNIC Challenge: Pushing the frontiers of nuclear detection, segmentation, classification and counting.
+      Med Image Anal (2024)  PMID 38157647  doi:10.1016/j.media.2023.103047
+
+ 440. Combining immunoscore and tumor budding in colon cancer: an insightful prognostication based on the tumor-host interface.
+      J Transl Med (2024)  PMID 39623479  doi:10.1186/s12967-024-05818-z
+
+ 441. Comparative analysis of tertiary lymphoid structures for predicting survival of colorectal cancer: a whole-slide images-based study.
+      Precis Clin Med (2024)  PMID 39582837  doi:10.1093/pcmedi/pbae030
+
+ 442. Construction and validation of a deep learning prognostic model based on digital pathology images of stage III colorectal cancer.
+      Eur J Surg Oncol (2024)  PMID 38703632  doi:10.1016/j.ejso.2024.108369
+
+ 443. Converging deep learning and human-observed tumor-adipocyte interaction as a biomarker in colorectal cancer.
+      Commun Med (Lond) (2024)  PMID 39147895  doi:10.1038/s43856-024-00589-6
+
+ 444. Correlation between TEX14 and ADAM17 expressions in colorectal cancer tissues of elderly patients and neoplasm staging, invasion, and metastasis.
+      World J Clin Cases (2024)  PMID 39188605  doi:10.12998/wjcc.v12.i24.5492
+
+ 445. Correlation of tumor-associated macrophage density and proportion of M2 subtypes with the pathological stage of colorectal cancer.
+      World J Gastrointest Oncol (2024)  PMID 38764849  doi:10.4251/wjgo.v16.i5.1878
+
+ 446. Data-driven nucleus subclassification on colon hematoxylin and eosin using style-transferred digital pathology.
+      J Med Imaging (Bellingham) (2024)  PMID 39507410  doi:10.1117/1.JMI.11.6.067501
+
+ 447. Deciphering tertiary lymphoid structure heterogeneity reveals prognostic signature and therapeutic potentials for colorectal cancer: a multicenter retrospective cohort study.
+      Int J Surg (2024)  PMID 38833363  doi:10.1097/JS9.0000000000001684
+
+ 448. Deep clustering representation of spatially resolved transcriptomics data using multi-view variational graph auto-encoders with consensus clustering.
+      Comput Struct Biotechnol J (2024)  PMID 39717398  doi:10.1016/j.csbj.2024.11.041
+
+ 449. Diagnostic and prognostic significance of keloid-like collagen remodeling patterns in the extracellular matrix of colorectal cancer.
+      Pathol Oncol Res (2024)  PMID 38903488  doi:10.3389/pore.2024.1611789
+
+ 450. Differences in Clinicopathological Features, P16Ink4a and P57KIP2 Immunohistochemical Expressions, and Survival Between Colorectal Carcinoma in Rectosigmoid and Other Colonic Locations.
+      Cureus (2024)  PMID 38989391  doi:10.7759/cureus.62061
+
+ 451. Digitally assessed lymphocyte infiltration in rectal cancer biopsies is associated with pathological response to neoadjuvant therapy.
+      Hum Pathol (2024)  PMID 38157991  doi:10.1016/j.humpath.2023.12.010
+
+ 452. Efficient Identification of Patients With NTRK Fusions Using a Supervised Tumor-Agnostic Approach.
+      Arch Pathol Lab Med (2024)  PMID 37270803  doi:10.5858/arpa.2022-0443-OA
+
+ 453. Enhancing Colorectal Cancer Tumor Bud Detection Using Deep Learning from Routine H&E-Stained Slides.
+      Proc SPIE Int Soc Opt Eng (2024)  PMID 38752165  doi:10.1117/12.3006796
+
+ 454. Establish a novel tumor budding-related signature to predict prognosis and guide clinical therapy in colorectal cancer.
+      Sci Rep (2024)  PMID 38273073  doi:10.1038/s41598-024-52596-1
+
+ 455. Evaluating the predictive value of angiogenesis-related genes for prognosis and immunotherapy response in prostate adenocarcinoma using machine learning and experimental approaches.
+      Front Immunol (2024)  PMID 38817605  doi:10.3389/fimmu.2024.1416914
+
+ 456. Evaluation of CD3 and CD8 T-Cell Immunohistochemistry for Prognostication and Prediction of Benefit From Adjuvant Chemotherapy in Early-Stage Colorectal Cancer Within the QUASAR Trial.
+      J Clin Oncol (2024)  PMID 39083705  doi:10.1200/JCO.23.02030
+
+ 457. Exploiting Geometric Features via Hierarchical Graph Pyramid Transformer for Cancer Diagnosis Using Histopathological Images.
+      IEEE Trans Med Imaging (2024)  PMID 38530716  doi:10.1109/TMI.2024.3381994
+
+ 458. Exploratory mapping of tumor associated macrophage nanoparticle article abstracts using an eLDA topic modeling machine learning approach.
+      PLoS One (2024)  PMID 38889180  doi:10.1371/journal.pone.0304505
+
+ 459. Exploring the Expression of Adenosine Pathway-Related Markers CD73 and CD39 in Colorectal and Pancreatic Carcinomas Characterized by Multiplex Immunofluorescence: A Pilot Study.
+      Pathobiology (2024)  PMID 37926083  doi:10.1159/000534677
+
+ 460. Exploring the NRF2-TP53 Signaling Network Through Machine Learning and Pan-Cancer Analysis: Identifying Potential targets for Cancer Prognosis Related to Oxidative Stress.
+      Adv Biol (Weinh) (2024)  PMID 38519438  doi:10.1002/adbi.202300659
+
+ 461. Few-shot Tumor Bud Segmentation Using Generative Model in Colorectal Carcinoma.
+      Proc SPIE Int Soc Opt Eng (2024)  PMID 38756441  doi:10.1117/12.3006418
+
+ 462. Gene expression prediction from histology images via hypergraph neural networks.
+      Brief Bioinform (2024)  PMID 39401144  doi:10.1093/bib/bbae500
+
+ 463. Gradient boosting reveals spatially diverse cholesterol gene signatures in colon cancer.
+      Front Genet (2024)  PMID 39678375  doi:10.3389/fgene.2024.1410353
+
+ 464. High KRT17 expression in tumour budding indicates immunologically 'hot' tumour budding and predicts good survival in patients with colorectal cancer.
+      Clin Transl Immunology (2024)  PMID 38433762  doi:10.1002/cti2.1495
+
+ 465. HistoSPACE: Histology-inspired spatial transcriptome prediction and characterization engine.
+      Methods (2024)  PMID 39521362  doi:10.1016/j.ymeth.2024.11.002
+
+ 466. Hydraulic conductivity of human cancer tissue: A hybrid study.
+      Bioeng Transl Med (2024)  PMID 38435818  doi:10.1002/btm2.10617
+
+ 467. Identification and validation of a machine learning model of complete response to radiation in rectal cancer reveals immune infiltrate and TGFβ as key predictors.
+      EBioMedicine (2024)  PMID 39013324  doi:10.1016/j.ebiom.2024.105228
+
+ 468. Identification of colon cancer subtypes based on multi-omics data-construction of methylation markers for immunotherapy.
+      Front Oncol (2024)  PMID 38327746  doi:10.3389/fonc.2024.1335670
+
+ 469. Image-based consensus molecular subtyping in rectal cancer biopsies and response to neoadjuvant chemoradiotherapy.
+      NPJ Precis Oncol (2024)  PMID 38594327  doi:10.1038/s41698-024-00580-3
+
+ 470. Immune microenvironmental heterogeneity according to tumor DNA methylation phenotypes in microsatellite instability-high colorectal cancers.
+      Cancer Immunol Immunother (2024)  PMID 39235590  doi:10.1007/s00262-024-03805-3
+
+ 471. Impaired Epithelial CD200L Tolerance Signaling in Irritable Bowel Syndrome Cases With Diarrhea May Be Associated With Recurrent Miscarriages.
+      Am J Reprod Immunol (2024)  PMID 39113660  doi:10.1111/aji.13912
+
+ 472. Inflamed immune phenotype predicts favorable clinical outcomes of immune checkpoint inhibitor therapy across multiple cancer types.
+      J Immunother Cancer (2024)  PMID 38355279  doi:10.1136/jitc-2023-008339
+
+ 473. International Validation of the Immunoscore Biopsy in Patients With Rectal Cancer Managed by a Watch-and-Wait Strategy.
+      J Clin Oncol (2024)  PMID 37788410  doi:10.1200/JCO.23.00586
+
+ 474. Intra-tumoral lymphocyte scoring in colorectal cancer: improving prognostic utility and correlation with underlying cancer biology.
+      Front Gastroenterol (Lausanne) (2024)  PMID 41822706  doi:10.3389/fgstr.2024.1493949
+
+ 475. Intriguing Insights From 100 Consecutive Colorectal Cancer Cases in Mid-Kerala: Sparse BRAF Gene Mutations and Mismatch Repair Deficiency (MMR-D).
+      Cureus (2024)  PMID 39119381  doi:10.7759/cureus.64133
+
+ 476. LYSTO: The Lymphocyte Assessment Hackathon and Benchmark Dataset.
+      IEEE J Biomed Health Inform (2024)  PMID 37878422  doi:10.1109/JBHI.2023.3327489
+
+ 477. Label-free quantification of imaging features in the extracellular matrix of left and right-sided colon cancer tissues.
+      Sci Rep (2024)  PMID 38553551  doi:10.1038/s41598-024-58231-3
+
+ 478. Location matters: spatial dynamics of tumor-infiltrating T cell subsets is prognostic in colon cancer.
+      Front Immunol (2024)  PMID 38375478  doi:10.3389/fimmu.2024.1293618
+
+ 479. Machine Vision-Detected Peritumoral Lymphocytic Aggregates Are Associated With Disease-Free Survival in Patients With Papillary Thyroid Carcinoma.
+      Lab Invest (2024)  PMID 39505213  doi:10.1016/j.labinv.2024.102168
+
+ 480. Machine learning based local recurrence prediction in colorectal cancer using polarized light imaging.
+      J Biomed Opt (2024)  PMID 38077502  doi:10.1117/1.JBO.29.5.052915
+
+ 481. Machine learning evaluation of immune infiltrate through digital tumour score allows prediction of survival outcome in a pooled analysis of three international stage III colon cancer cohorts.
+      EBioMedicine (2024)  PMID 38880067  doi:10.1016/j.ebiom.2024.105207
+
+ 482. Machine learning-driven estimation of mutational burden highlights DNAH5 as a prognostic marker in colorectal cancer.
+      Biol Direct (2024)  PMID 39543663  doi:10.1186/s13062-024-00564-0
+
+ 483. Mathematical modelling and deep learning algorithms to automate assessment of single and digitally multiplexed immunohistochemical stains in tumoural stroma.
+      J Pathol Inform (2024)  PMID 38186746  doi:10.1016/j.jpi.2023.100351
+
+ 484. Molecular characteristics of early-onset compared with late-onset colorectal cancer: a case controlled study.
+      Int J Surg (2024)  PMID 38742845  doi:10.1097/JS9.0000000000001584
+
+ 485. Multi-Algorithm-Integrated Tertiary Lymphoid Structure Gene Signature for Immune Landscape Characterization and Prognosis in Colorectal Cancer Patients.
+      Biomedicines (2024)  PMID 39595209  doi:10.3390/biomedicines12112644
+
+ 486. Multi-modal domain adaptation for revealing spatial functional landscape from spatially resolved transcriptomics.
+      Brief Bioinform (2024)  PMID 38819253  doi:10.1093/bib/bbae257
+
+ 487. Multiplexed analysis of macrophage polarisation in pulmonary metastases of microsatellite stable colorectal cancer.
+      Cancer Immunol Immunother (2024)  PMID 38386105  doi:10.1007/s00262-024-03646-0
+
+ 488. Nomograms integrating the collagen signature and systemic immune-inflammation index for predicting prognosis in rectal cancer patients.
+      BJS Open (2024)  PMID 38513282  doi:10.1093/bjsopen/zrae014
+
+ 489. Nucleus subtype classification using inter-modality learning.
+      Proc SPIE Int Soc Opt Eng (2024)  PMID 39268202  doi:10.1117/12.3006237
+
+ 490. PD-L1 Expression in Colorectal Carcinoma Correlates with the Immune Microenvironment.
+      J Gastrointest Cancer (2024)  PMID 38530597  doi:10.1007/s12029-024-01049-z
+
+ 491. PD-L1 and PD-1 Expression in Early Stage Uterine Endometrioid Carcinoma.
+      In Vivo (2024)  PMID 38148043  doi:10.21873/invivo.13431
+
+ 492. Pathological image profiling identifies onco-microbial, tumor immune microenvironment, and prognostic subtypes of colorectal cancer.
+      APMIS (2024)  PMID 38403979  doi:10.1111/apm.13387
+
+ 493. Prognostic Effect of Tertiary Lymphoid Structures in Epstein-Barr Virus-Associated Gastric Carcinomas Measured by Digital Image Analysis.
+      Lab Invest (2024)  PMID 38677591  doi:10.1016/j.labinv.2024.102071
+
+ 494. Prognostic Value of Immune Cells Subsets Within the Tumor Microenvironment in Patients With Rectal Adenocarcinoma.
+      Anticancer Res (2024)  PMID 38307574  doi:10.21873/anticanres.16870
+
+ 495. Regression-based Deep-Learning predicts molecular biomarkers from pathology slides.
+      Nat Commun (2024)  PMID 38341402  doi:10.1038/s41467-024-45589-1
+
+ 496. ResSAT: Enhancing Spatial Transcriptomics Prediction from H&E- Stained Histology Images with Interactive Spot Transformer.
+      Res Sq (2024)  PMID 39149477  doi:10.21203/rs.3.rs-4707959/v1
+
+ 497. SNPs and blood inflammatory marker featured machine learning for predicting the efficacy of fluorouracil-based chemotherapy in colorectal cancer.
+      Sci Rep (2024)  PMID 39532939  doi:10.1038/s41598-024-79036-4
+
+ 498. STASCAN deciphers fine-resolution cell distribution maps in spatial transcriptomics by deep learning.
+      Genome Biol (2024)  PMID 39439006  doi:10.1186/s13059-024-03421-5
+
+ 499. STFormer: Learning to Explore Spot Relationships for Spatial Transcriptomics Prediction from Histology of Colorectal Cancer.
+      Annu Int Conf IEEE Eng Med Biol Soc (2024)  PMID 40031511  doi:10.1109/EMBC53108.2024.10782295
+
+ 500. Seed and Soil: Consensus Molecular Subgroups (CMS) and Tumor Microenvironment Features Between Primary Lesions and Metastases of Different Organ Sites in Colorectal Cancer.
+      Cancer Manag Res (2024)  PMID 38525373  doi:10.2147/CMAR.S441675
+
+ 501. Self-Supervised Learning Reveals Clinically Relevant Histomorphological Patterns for Therapeutic Strategies in Colon Cancer.
+      bioRxiv (2024)  PMID 38496571  doi:10.1101/2024.02.26.582106
+
+ 502. Spatial Omics Driven Crossmodal Pretraining Applied to Graph-based Deep Learning for Cancer Pathology Analysis.
+      Pac Symp Biocomput (2024)  PMID 38160300
+
+ 503. Spatial analyses: Focusing on immune-stromal interactions to understand immunity in the tissue context.
+      Semin Arthritis Rheum (2024)  PMID 38040516  doi:10.1016/j.semarthrit.2023.152319
+
+ 504. Spatial distribution pattern of immune cells is associated with patient prognosis in colorectal cancer.
+      J Transl Med (2024)  PMID 38951801  doi:10.1186/s12967-024-05418-x
+
+ 505. Spatial domains identification in spatial transcriptomics using modality-aware and subspace-enhanced graph contrastive learning.
+      Comput Struct Biotechnol J (2024)  PMID 39507820  doi:10.1016/j.csbj.2024.10.029
+
+ 506. SynCLay: Interactive synthesis of histology images from bespoke cellular layouts.
+      Med Image Anal (2024)  PMID 37898050  doi:10.1016/j.media.2023.102995
+
+ 507. TAK1 expression is associated with increased PD-L1 and decreased cancer-specific survival in microsatellite-stable colorectal cancer.
+      Transl Oncol (2024)  PMID 39068768  doi:10.1016/j.tranon.2024.102064
+
+ 508. TYK2 Protein Expression and Its Potential as a Tissue-Based Biomarker for the Diagnosis of Colorectal Cancer.
+      Cancers (Basel) (2024)  PMID 39518103  doi:10.3390/cancers16213665
+
+ 509. The Comprehensive Characterization of B7-H3 Expression in the Tumor Microenvironment of Lung Squamous Cell Carcinoma: A Retrospective Study.
+      Cancers (Basel) (2024)  PMID 38893259  doi:10.3390/cancers16112140
+
+ 510. The Concept of Stroma AReactive Invasion Front Areas (SARIFA) as a new prognostic biomarker for lipid-driven cancers holds true in pancreatic ductal adenocarcinoma.
+      BMC Cancer (2024)  PMID 38926671  doi:10.1186/s12885-024-12519-9
+
+ 511. The Pan-Cancer Analysis Uncovers the Prognostic and Immunotherapeutic Significance of CD19 as an Immune Marker in Tumor.
+      Int J Gen Med (2024)  PMID 38855424  doi:10.2147/IJGM.S459914
+
+ 512. The Potential of PD-1 and PD-L1 as Prognostic and Predictive Biomarkers in Colorectal Adenocarcinoma Based on TILs Grading.
+      Curr Oncol (2024)  PMID 39727675  doi:10.3390/curroncol31120552
+
+ 513. The Relationship of Microsatellite Instability with BRAF and p53 Mutations and Histopathological Parameters in Colorectal Adenocarcinoma.
+      Ann Ital Chir (2024)  PMID 38684491  doi:10.62713/aic.3377
+
+ 514. The impact of methylene blue in colon cancer: a retrospective multicentric study.
+      Int J Colorectal Dis (2024)  PMID 38866990  doi:10.1007/s00384-024-04663-2
+
+ 515. The prognostic and potentially immunomodulatory role of cartilage oligomeric matrix protein in patients with gastric and esophageal adenocarcinoma.
+      Cancer Immunol Immunother (2024)  PMID 38563861  doi:10.1007/s00262-024-03656-y
+
+ 516. The prognostic effect of tumor-associated macrophages in stage I-III colorectal cancer depends on T cell infiltration.
+      Cell Oncol (Dordr) (2024)  PMID 38407700  doi:10.1007/s13402-024-00926-w
+
+ 517. Transformer with convolution and graph-node co-embedding: An accurate and interpretable vision backbone for predicting gene expressions from local histopathological image.
+      Med Image Anal (2024)  PMID 38007979  doi:10.1016/j.media.2023.103040
+
+ 518. True-T - Improving T-cell response quantification with holistic artificial intelligence based prediction in immunohistochemistry images.
+      Comput Struct Biotechnol J (2024)  PMID 38146436  doi:10.1016/j.csbj.2023.11.048
+
+ 519. Tumor Immune Microenvironment Biomarkers for Recurrence Prediction in Locally Advanced Rectal Cancer Patients after Neoadjuvant Chemoradiotherapy.
+      Cancers (Basel) (2024)  PMID 39409972  doi:10.3390/cancers16193353
+
+ 520. Unlocking the potential of HHLA2: identifying functional immune infiltrating cells in the tumor microenvironment and predicting clinical outcomes in laryngeal squamous cell carcinoma.
+      Cancer Immunol Immunother (2024)  PMID 39105870  doi:10.1007/s00262-024-03791-6
+
+ 521. Use of Deep Learning to Evaluate Tumor Microenvironmental Features for Prediction of Colon Cancer Recurrence.
+      Cancer Res Commun (2024)  PMID 38709069  doi:10.1158/2767-9764.CRC-24-0031
+
+ 522. Using Deep Learning to Automate Eosinophil Counting in Pediatric Ulcerative Colitis Histopathological Images.
+      medRxiv (2024)  PMID 38633803  doi:10.1101/2024.04.03.24305251
+
+ 523. β2-microglobulin expression is associated with aggressive histology, activated tumor immune milieu, and outcome in colon carcinoma.
+      Am J Clin Pathol (2024)  PMID 38869306  doi:10.1093/ajcp/aqae066
+
+ 524. A Machine Learning-Based Hypoxia-Related Gene Signatures to Facilitate Prediction of Cetuximab Response in Patients with Colorectal Cancer.
+      Int J Med Sci (2025)  PMID 40959565  doi:10.7150/ijms.114833
+
+ 525. A Tc1- and Th1-T-lymphocyte-rich tumor microenvironment is a hallmark of MSI colorectal cancer.
+      J Pathol (2025)  PMID 40181205  doi:10.1002/path.6415
+
+ 526. A Tertiary lymphoid structures-based pathological score predicts survival and recurrence in colorectal Cancer patients.
+      Immunobiology (2025)  PMID 40398138  doi:10.1016/j.imbio.2025.152911
+
+ 527. A full-automated tumor budding annotation approach in hematoxylin and eosin-stained whole slide images of colorectal cancer.
+      NPJ Precis Oncol (2025)  PMID 41476129  doi:10.1038/s41698-025-01238-4
+
+ 528. A multi-technique ensemble model leveraging attention mechanism and image processing for enhanced colorectal tumor detection.
+      Sci Rep (2025)  PMID 41339388  doi:10.1038/s41598-025-25986-2
+
+ 529. A novel approach to digital characterisation of Tertiary Lymphoid Structures in colorectal cancer.
+      Front Immunol (2025)  PMID 39958353  doi:10.3389/fimmu.2025.1500792
+
+ 530. AI-based tumor-stroma ratio quantification algorithm: comprehensive evaluation of prognostic role in primary colorectal cancer.
+      Virchows Arch (2025)  PMID 39948241  doi:10.1007/s00428-025-04048-y
+
+ 531. AI-powered immune profiling from histopathology slides for chemo-radiotherapy outcome prediction in rectal cancer: a study using clinical trial and real-world cohorts.
+      EBioMedicine (2025)  PMID 41253645  doi:10.1016/j.ebiom.2025.105993
+
+ 532. AI-powered pathobiology transformers predict prognosis and targeted therapy benefits in patients with colorectal cancer ovarian metastases: a multicohort study.
+      Int J Surg (2025)  PMID 41417976  doi:10.1097/JS9.0000000000004397
+
+ 533. Advancing Tumor Budding Detection With Fourier Ptychography Microscopy.
+      Cancer Med (2025)  PMID 40530892  doi:10.1002/cam4.70989
+
+ 534. An immunohistochemistry-based classification of colorectal cancer resembling the consensus molecular subtypes using convolutional neural networks.
+      Sci Rep (2025)  PMID 40447758  doi:10.1038/s41598-025-03618-z
+
+ 535. Analysis of Tumor Microenvironmental Features Between Primary and Synchronous Liver Metastases From Patients With Colorectal Cancers Using a Deep Learning Algorithm.
+      JCO Clin Cancer Inform (2025)  PMID 40694782  doi:10.1200/CCI-25-00004
+
+ 536. Annotation-Free Whole-Slide Image Analysis Method to Assess Immune Infiltration in Colorectal Cancer.
+      JCO Precis Oncol (2025)  PMID 40334155  doi:10.1200/PO-24-00791
+
+ 537. Artificial Intelligence-Driven Quantification of Tumor-Stroma Ratio and Fibroblasts Enables Precise Classification of Stroma Quality and Quantity in Predicting Colorectal Cancer Recurrence.
+      Pathobiology (2025)  PMID 40254013  doi:10.1159/000546021
+
+ 538. Artificial Intelligence-Powered Human Epidermal Growth Factor Receptor 2 and Tumor Microenvironment Analysis in Human Epidermal Growth Factor Receptor 2-Amplified Metastatic Colorectal Cancer: Exploratory Analysis of Phase II TRIUMPH Trial.
+      JCO Precis Oncol (2025)  PMID 39823559  doi:10.1200/PO-24-00385
+
+ 539. Artificial intelligence defines spatial patterns of tumor-infiltrating lymphocytes highly associated with outcome - a pan-GI cancer study.
+      ESMO Open (2025)  PMID 41033282  doi:10.1016/j.esmoop.2025.105757
+
+ 540. Assessment of compartment-specific CD103-positive cells for prognosis prediction of colorectal cancer.
+      Cancer Immunol Immunother (2025)  PMID 40481870  doi:10.1007/s00262-025-04087-z
+
+ 541. Assessment of inflammatory infiltrate in colorectal carcinoma with a critical evaluation of the different scoring systems and correlation with prognostic parameters.
+      Indian J Pathol Microbiol (2025)  PMID 40405620  doi:10.4103/ijpm.ijpm_307_24
+
+ 542. Association of lysyl oxidase expression with clinicopathological features in colorectal adenocarcinomas.
+      Int J Colorectal Dis (2025)  PMID 40126681  doi:10.1007/s00384-025-04852-7
+
+ 543. Associations between Calcium Intake and T-cell Infiltration in Colorectal Tumors.
+      Cancer Prev Res (Phila) (2025)  PMID 40371912  doi:10.1158/1940-6207.CAPR-25-0023
+
+ 544. Automated classification of tertiary lymphoid structures in colorectal cancer using TLS-PAT artificial intelligence tool.
+      Sci Rep (2025)  PMID 40119179  doi:10.1038/s41598-025-94664-0
+
+ 545. Automated deep learning-based assessment of tumour-infiltrating lymphocyte density determines prognosis in colorectal cancer.
+      J Transl Med (2025)  PMID 40065354  doi:10.1186/s12967-025-06254-3
+
+ 546. Automated multi-regional IHC scoring enhances prognostication in colorectal cancer.
+      J Pathol Clin Res (2025)  PMID 40966320  doi:10.1002/2056-4538.70047
+
+ 547. Automated tumor stroma ratio assessment in colorectal cancer using hybrid deep learning approach.
+      Sci Rep (2025)  PMID 41266465  doi:10.1038/s41598-025-24229-8
+
+ 548. Automatically quantifying spatial heterogeneity of immune and tumor hypoxia environment and predicting disease-free survival for patients with rectal cancer.
+      Cancer Immunol Immunother (2025)  PMID 41251704  doi:10.1007/s00262-025-04235-5
+
+ 549. B and T Tumor-Infiltrating Lymphocyte Subtypes According to Subsite: A Colon Cancer Immunophenotyping Map.
+      Biomedicines (2025)  PMID 41462871  doi:10.3390/biomedicines13122856
+
+ 550. Benchmarking the translational potential of spatial gene expression prediction from histology.
+      Nat Commun (2025)  PMID 39934114  doi:10.1038/s41467-025-56618-y
+
+ 551. Beta-2-microglobulin positive tumor cells and CD8 positive lymphocytes are associated with outcome in post-neoadjuvant colorectal cancer resections.
+      Hum Pathol (2025)  PMID 39988058  doi:10.1016/j.humpath.2025.105737
+
+ 552. Cell-in-Cell Structures in Colorectal Cancer: A Proposed Assessment Method and Correlation with Established Poor Prognostic Factors.
+      J Pers Med (2025)  PMID 41440954  doi:10.3390/jpm15120591
+
+ 553. Characteristics of successful expansion of tumor-infiltrating lymphocytes from colorectal cancer liver metastasis.
+      Sci Rep (2025)  PMID 39794519  doi:10.1038/s41598-025-85892-5
+
+ 554. Claudin 18.2 Expression in 1404 Digestive Tract Adenocarcinomas Including 1175 Colorectal Carcinomas: Distinct Colorectal Carcinoma Subtypes Are Claudin 18.2 Positive.
+      Mod Pathol (2025)  PMID 39826799  doi:10.1016/j.modpat.2025.100712
+
+ 555. Collagen disorder architecture features are associated with clinical, molecular, genetic factors and survival outcomes in colon cancer.
+      NPJ Precis Oncol (2025)  PMID 40877439  doi:10.1038/s41698-025-01098-y
+
+ 556. Combined serine protease PRSS22 and CEA mRNA analysis identifies the majority of colon cancer patients that recur within 12 years.
+      Front Oncol (2025)  PMID 40909962  doi:10.3389/fonc.2025.1628069
+
+ 557. Completing spatial transcriptomics data for gene expression prediction benchmarking.
+      Med Image Anal (2025)  PMID 40885036  doi:10.1016/j.media.2025.103754
+
+ 558. Comprehensive characterization of micropapillary colorectal adenocarcinoma.
+      J Pathol (2025)  PMID 39917902  doi:10.1002/path.6392
+
+ 559. Computational pathology applied to clinical colorectal cancer cohorts identifies immune and endothelial cell spatial patterns predictive of outcome.
+      J Pathol (2025)  PMID 39788558  doi:10.1002/path.6378
+
+ 560. DNA methylation regulates TREM1 expression to modulate immune responses and drive progression in colorectal neuroendocrine neoplasm as a potential therapeutic target.
+      Discov Oncol (2025)  PMID 40855239  doi:10.1007/s12672-025-03468-1
+
+ 561. DNA ploidy combined with tumor stroma as a biomarker for predicting the prognosis of stage II colorectal cancer patients and identifying candidates for chemotherapy.
+      World J Surg Oncol (2025)  PMID 39940036  doi:10.1186/s12957-025-03693-6
+
+ 562. Deep Gaussian process with uncertainty estimation for microsatellite instability and immunotherapy response prediction from histology.
+      NPJ Digit Med (2025)  PMID 40389599  doi:10.1038/s41746-025-01580-8
+
+ 563. Deep Learning-Enabled Integration of Histology and Transcriptomics for Tissue Spatial Profile Analysis.
+      Research (Wash D C) (2025)  PMID 39830364  doi:10.34133/research.0568
+
+ 564. Deep learning-based quantification of eosinophils and lymphocytes shows complementary prognostic effects in colorectal cancer patients.
+      NPJ Precis Oncol (2025)  PMID 40514395  doi:10.1038/s41698-025-00955-0
+
+ 565. Deep-learning enabled combined measurement of tumour cell density and tumour infiltrating lymphocyte density as a prognostic biomarker in colorectal cancer.
+      BJC Rep (2025)  PMID 40033106  doi:10.1038/s44276-025-00123-8
+
+ 566. Diagnostic and prognostic significance of Super-enhancer-associated genes in Crohn's disease and immune regulatory roles.
+      Eur J Med Res (2025)  PMID 41013748  doi:10.1186/s40001-025-03168-0
+
+ 567. Early detection of colorectal cancer using a hybrid model with enhanced image quality and optimized classification.
+      Phys Eng Sci Med (2025)  PMID 40788535  doi:10.1007/s13246-025-01617-y
+
+ 568. Ensemble transformer-based multiple instance learning to predict pathological subtypes and tumor mutational burden from histopathological whole slide images of endometrial and colorectal cancer.
+      Med Image Anal (2025)  PMID 39461079  doi:10.1016/j.media.2024.103372
+
+ 569. Enumeration of Ki67 proliferation index by an algorithm-based digital image analysis in breast carcinoma.
+      Med J Armed Forces India (2025)  PMID 41268008  doi:10.1016/j.mjafi.2025.07.008
+
+ 570. Evaluation of immune-checkpoint molecules in dMMR/pMMR colorectal cancer by multiplex immunohistochemistry.
+      Clin Transl Oncol (2025)  PMID 39240301  doi:10.1007/s12094-024-03691-2
+
+ 571. Exploring Intratumoral Budding in Colorectal Cancer Using Computational Pathology: A Biopsy-Based Evaluation.
+      Mod Pathol (2025)  PMID 39522647  doi:10.1016/j.modpat.2024.100655
+
+ 572. Exploring racial differences in second-harmonic-generation-based prognostic indicators of metastasis in breast and colon cancer.
+      Biophotonics Discov (2025)  PMID 40852646  doi:10.1117/1.bios.2.2.022703
+
+ 573. Exploring the Latent Information in Spatial Transcriptomics Data via Multi-View Graph Convolutional Network Based on Implicit Contrastive Learning.
+      Adv Sci (Weinh) (2025)  PMID 40304359  doi:10.1002/advs.202413545
+
+ 574. FOXP3 is a favourable prognostic indicator in oesophageal adenocarcinoma.
+      Pathol Res Pract (2025)  PMID 40961617  doi:10.1016/j.prp.2025.156216
+
+ 575. FmH2ST: foundation model-based spatial transcriptomics generation from histological images.
+      Nucleic Acids Res (2025)  PMID 40923764  doi:10.1093/nar/gkaf865
+
+ 576. Fusobacterium nucleatum Is Associated with Tumor Characteristics, Immune Microenvironment, and Survival in Appendiceal Cancer.
+      Microorganisms (2025)  PMID 40732152  doi:10.3390/microorganisms13071644
+
+ 577. GARP-expressing Tregs as a source of immunosuppressive TGF-β1 in human tumors.
+      Cancer Immunol Immunother (2025)  PMID 40944768  doi:10.1007/s00262-025-04157-2
+
+ 578. HECLIP: histology-enhanced contrastive learning for imputation of transcriptomics profiles.
+      Bioinformatics (2025)  PMID 40569046  doi:10.1093/bioinformatics/btaf363
+
+ 579. High α-SMA expression in the tumor stroma is associated with adverse clinical parameters in mismatch repair-proficient colorectal cancers only.
+      Am J Clin Pathol (2025)  PMID 39495028  doi:10.1093/ajcp/aqae145
+
+ 580. High-level STING expression in tumour and inflammatory cells is linked to microsatellite instability and favourable tumour parameters in a cohort of over 1,900 colorectal cancer patients.
+      Pathology (2025)  PMID 40816937  doi:10.1016/j.pathol.2025.05.008
+
+ 581. Histology-Based Virtual RNA Inference Identifies Pathways Associated With Metastasis Risk in Colorectal Cancer.
+      Mod Pathol (2025)  PMID 40803647  doi:10.1016/j.modpat.2025.100866
+
+ 582. Histology-Based Virtual RNA Inference Identifies Pathways Associated with Metastasis Risk in Colorectal Cancer.
+      medRxiv (2025)  PMID 40313260  doi:10.1101/2025.04.22.25326170
+
+ 583. Hybrid model for predicting microsatellite instability in colorectal cancer using hematoxylin & eosin-stained images and clinical features.
+      Front Oncol (2025)  PMID 40626015  doi:10.3389/fonc.2025.1580195
+
+ 584. Hypergraph-driven spatial multimodal fusion for precise domain delineation and tumor microenvironment decoding.
+      Commun Biol (2025)  PMID 41326702  doi:10.1038/s42003-025-09312-0
+
+ 585. INLAomics for Scalable and Interpretable Spatial Multiomic Data Integration.
+      bioRxiv (2025)  PMID 40654897  doi:10.1101/2025.05.02.651831
+
+ 586. Identification of a metabolic-immune signature associated with prognosis in colon cancer and exploration of potential predictive efficacy of immunotherapy response.
+      Clin Exp Med (2025)  PMID 39853414  doi:10.1007/s10238-025-01566-6
+
+ 587. Identification of cuproptosis and ferroptosis-related subtypes and development of a prognostic signature in colon cancer.
+      PLoS One (2025)  PMID 39883700  doi:10.1371/journal.pone.0307013
+
+ 588. Identification of ulcerative colitis diagnostic markers from differentially expressed genes shared with Hirschsprung disease.
+      Sci Rep (2025)  PMID 40175429  doi:10.1038/s41598-024-83964-6
+
+ 589. Immune activation following PD-L1 inhibitor plus chemoradiotherapy in locally advanced rectal cancer: a retrospective, single-arm study.
+      Front Immunol (2025)  PMID 40936903  doi:10.3389/fimmu.2025.1619043
+
+ 590. Immunoprofiling at an Institutional Scale Reveals That High Numbers of Intratumoral CD8+ and PD-1+ Cells Predict Superior Patient Survival Across Major Cancer Types Independent of Major Risk Factors.
+      JCO Precis Oncol (2025)  PMID 40906987  doi:10.1200/PO-25-00240
+
+ 591. Impact of Data Quality on Deep Learning Prediction of Spatial Transcriptomics from Histology Images.
+      bioRxiv (2025)  PMID 40964396  doi:10.1101/2025.09.04.674228
+
+ 592. Impact of HIF-1α, LOX and ITGA5 Synergistic Interaction in the Tumor Microenvironment on Colorectal Cancer Prognosis.
+      Diagnostics (Basel) (2025)  PMID 39857068  doi:10.3390/diagnostics15020184
+
+ 593. Inferring multi-slice spatially resolved gene expression from H&E-stained histology images with STMCL.
+      Methods (2025)  PMID 39755346  doi:10.1016/j.ymeth.2024.11.016
+
+ 594. Integrating Tumor Intraepithelial CD8+ and Stromal FOXP3+ T-Cell Densities as an Enhanced Immune Prognostic Index in Colorectal Cancer.
+      Lab Invest (2025)  PMID 40683334  doi:10.1016/j.labinv.2025.104213
+
+ 595. Interpretable multi-stage attention network to predict cancer subtype, microsatellite instability, TP53 mutation and TMB of endometrial and colorectal cancer.
+      Comput Med Imaging Graph (2025)  PMID 39947084  doi:10.1016/j.compmedimag.2025.102499
+
+ 596. Intratumoral Fibrotic Features Are Associated With Lymph Node Metastasis and Recurrence in Patients With Advanced Colon Cancer.
+      Mod Pathol (2025)  PMID 40571126  doi:10.1016/j.modpat.2025.100828
+
+ 597. Learnable prototype-guided multiple instance learning for detecting tertiary lymphoid structures in multi-cancer whole-slide pathological images.
+      Med Image Anal (2025)  PMID 40446482  doi:10.1016/j.media.2025.103652
+
+ 598. MERGE: Multi-faceted Hierarchical Graph-based GNN for Gene Expression Prediction from Whole Slide Histopathology Images.
+      Proc IEEE Comput Soc Conf Comput Vis Pattern Recognit (2025)  PMID 40873441  doi:10.1109/cvpr52734.2025.01455
+
+ 599. MuCST: restoring and integrating heterogeneous morphology images and spatial transcriptomics data with contrastive learning.
+      Genome Med (2025)  PMID 40082941  doi:10.1186/s13073-025-01449-1
+
+ 600. Multi-Task Adaptive Resolution Network for Lymph Node Metastasis Diagnosis From Whole Slide Images of Colorectal Cancer.
+      IEEE J Biomed Health Inform (2025)  PMID 39446536  doi:10.1109/JBHI.2024.3485703
+
+ 601. Multimarker Assessment of B-Cell and Plasma Cell Subsets and Their Prognostic Role in the Colorectal Cancer Microenvironment.
+      Clin Cancer Res (2025)  PMID 40198270  doi:10.1158/1078-0432.CCR-24-4083
+
+ 602. Mycophenolate mofetil-induced colitis versus colonic graft-versus-host disease: a comparative histologic study with artificial intelligence model development.
+      Histopathology (2025)  PMID 40703053  doi:10.1111/his.15521
+
+ 603. PERITUMORAL BUDDING AS A PREDICTOR FOR LYMPH NODE METASTASES IN COLORECTAL CARCINOMAS: WHAT IS THE IMPORTANCE?
+      Arq Bras Cir Dig (2025)  PMID 40197972  doi:10.1590/0102-6720202500006e1875
+
+ 604. Pan-cancer analysis of polycomb repressive complex 1 (PRC1) in relation to prognosis and immunotherapy response.
+      Cent Eur J Immunol (2025)  PMID 41079377  doi:10.5114/ceji.2025.151960
+
+ 605. Predicting fine-grained cell types from histology images through cross-modal learning in spatial transcriptomics.
+      Bioinformatics (2025)  PMID 40662792  doi:10.1093/bioinformatics/btaf201
+
+ 606. Prediction and analysis of tumor infiltrating lymphocytes across 28 cancers by TILScout using deep learning.
+      NPJ Precis Oncol (2025)  PMID 40108446  doi:10.1038/s41698-025-00866-0
+
+ 607. Preoperative prediction of tumor budding and lymphovascular invasion in colon cancer using dual-energy CT: a prospective study with internal model validation.
+      Abdom Radiol (NY) (2025)  PMID 39825008  doi:10.1007/s00261-025-04803-4
+
+ 608. Prognostic Features and Potential for Immune Therapy in Metastatic Mismatch Repair-Deficient Colorectal Cancer: A Retrospective Analysis of a Large Consecutive Population-Based Patient Series.
+      Cancer Med (2025)  PMID 39783790  doi:10.1002/cam4.70555
+
+ 609. Prognostic Significance of STK11/LKB1 Expression and Its Role in the Tumor Microenvironment of Colorectal Adenocarcinoma.
+      In Vivo (2025)  PMID 40010956  doi:10.21873/invivo.13873
+
+ 610. Prognostic Value of an Integrated Human Papillomavirus and Immunoscore Model to Predict Survival in Vulva Squamous Cell Carcinoma.
+      Mod Pathol (2025)  PMID 40505815  doi:10.1016/j.modpat.2025.100809
+
+ 611. Prognostic and predictive value of tumor infiltration proportion within lymph nodes in N1 colorectal cancer.
+      Front Oncol (2025)  PMID 40201345  doi:10.3389/fonc.2025.1512960
+
+ 612. Prognostic assessment of T-cells in primary colorectal cancer and paired synchronous or metachronous liver metastasis.
+      Int J Cancer (2025)  PMID 39508720  doi:10.1002/ijc.35252
+
+ 613. Prognostic value of immune infiltration in colorectal cancer: Development of a histopathology-related immunoscore via multiplexed immunohistochemistry.
+      Surgery (2025)  PMID 40233469  doi:10.1016/j.surg.2025.109350
+
+ 614. Prognostic value of manual and digital PD-L1 expression in pT3 and pT4 colon cancer.
+      Diagn Pathol (2025)  PMID 41272706  doi:10.1186/s13000-025-01735-x
+
+ 615. Quantitative Analysis of Rectal Cancer Biopsies With the Digital Pathology Segmentation Algorithm QuantCRC Associates With Therapy Response and Recurrence.
+      Lab Invest (2025)  PMID 40311875  doi:10.1016/j.labinv.2025.104187
+
+ 616. Rapid, label-free detection of colorectal cancer with an aberration-free line scanning confocal Raman imager.
+      Spectrochim Acta A Mol Biomol Spectrosc (2025)  PMID 40252543  doi:10.1016/j.saa.2025.126182
+
+ 617. Relationship Between Mast Cell Population of Microenvironment and Prognosis in Colorectal Cancer.
+      J Clin Med (2025)  PMID 41375616  doi:10.3390/jcm14238312
+
+ 618. Resolving phenotyping discordance with SPACEMAP, an integrated machine learning framework.
+      bioRxiv (2025)  PMID 41409150  doi:10.1101/2025.11.27.690631
+
+ 619. SERPINH1 as a Novel Biomarker for Colon Cancer Bone Metastasis with Machine Learning and Immunohistochemistry Validation.
+      Cancer Biother Radiopharm (2025)  PMID 39422029  doi:10.1089/cbr.2024.0162
+
+ 620. SIGLEC1 has the potential to be an immune-related prognostic indicator in colon adenocarcinoma: a study based on transcriptomic data and Mendelian randomization analysis.
+      Discov Oncol (2025)  PMID 40088346  doi:10.1007/s12672-025-02093-2
+
+ 621. STAIG: Spatial transcriptomics analysis via image-aided graph contrastive learning for domain exploration and alignment-free integration.
+      Nat Commun (2025)  PMID 39870633  doi:10.1038/s41467-025-56276-0
+
+ 622. STPath: a generative foundation model for integrating spatial transcriptomics and whole-slide images.
+      NPJ Digit Med (2025)  PMID 41238784  doi:10.1038/s41746-025-02020-3
+
+ 623. Self-supervised learning reveals clinically relevant histomorphological patterns for therapeutic strategies in colon cancer.
+      Nat Commun (2025)  PMID 40057490  doi:10.1038/s41467-025-57541-y
+
+ 624. Semi-supervised ViT knowledge distillation network with style transfer normalization for colorectal liver metastases survival prediction.
+      Med Image Anal (2025)  PMID 39423564  doi:10.1016/j.media.2024.103346
+
+ 625. Similarity-guided swarm of models: enhancing semi-supervised learning in computational pathology.
+      Sci Rep (2025)  PMID 41466090  doi:10.1038/s41598-025-33281-3
+
+ 626. SpaICL: image-guided curriculum strategy-based graph contrastive learning for spatial transcriptomics clustering.
+      Brief Bioinform (2025)  PMID 40838787  doi:10.1093/bib/bbaf433
+
+ 627. SpaTM: topic models for inferring spatially informed transcriptional programs.
+      Brief Bioinform (2025)  PMID 41359801  doi:10.1093/bib/bbaf657
+
+ 628. Spatial Cancer-Immune Phenotypes Predict Shorter Recurrence-Free Survival in the No Specific Molecular Profile Molecular Subtype of Endometrial Carcinoma.
+      Mod Pathol (2025)  PMID 39326496  doi:10.1016/j.modpat.2024.100624
+
+ 629. Spatial Tumor Immune Microenvironment as a Prognostic and Predictive Biomarker in Anti-EGFR-Based Maintenance for RAS wt Metastatic CRC-The PanaMa (AIO KRK0212) Trial.
+      Clin Cancer Res (2025)  PMID 40736443  doi:10.1158/1078-0432.CCR-25-0879
+
+ 630. Spatial patterns and prognostic relevance of CD1a+ immature and CD208+ mature dendritic cells in colorectal cancer from non-tumor adjacent mucosa to liver metastases.
+      Cancer Immunol Immunother (2025)  PMID 41410751  doi:10.1007/s00262-025-04238-2
+
+ 631. Spatial transcriptomics identifies molecular niche dysregulation associated with distal lung remodeling in pulmonary fibrosis.
+      Nat Genet (2025)  PMID 39901013  doi:10.1038/s41588-025-02080-x
+
+ 632. Stroma AReactive Invasion Front Areas (SARIFA), tumour immune microenvironment, and survival in colorectal cancer.
+      Br J Cancer (2025)  PMID 40055484  doi:10.1038/s41416-025-02972-z
+
+ 633. Systematic inference of super-resolution cell spatial profiles from histology images.
+      Nat Commun (2025)  PMID 39984438  doi:10.1038/s41467-025-57072-6
+
+ 634. Targeting Molecular Dysregulation in Ulcerative Colitis: A Paired Cellular Perspective on CD4+, CD8+, and IL-6 Immunohistochemistry.
+      Int J Mol Sci (2025)  PMID 41465205  doi:10.3390/ijms262411773
+
+ 635. Tertiary lymphoid structures in high-grade serous tubo-ovarian carcinoma: anatomical site matters.
+      Cancer Immunol Immunother (2025)  PMID 39751944  doi:10.1007/s00262-024-03911-2
+
+ 636. The Spatial Atlas of Human Anatomy (SAHA): A Multimodal Subcellular-Resolution Reference Across Human Organs.
+      bioRxiv (2025)  PMID 40611896  doi:10.1101/2025.06.16.658716
+
+ 637. The combination of CDX2 expression status and tumor-infiltrating lymphocyte density as a prognostic factor in adjuvant FOLFOX-treated patients with stage III colorectal cancers.
+      J Pathol Transl Med (2025)  PMID 39440351  doi:10.4132/jptm.2024.09.26
+
+ 638. The prognostic value of immunoscore in the early-onset colorectal cancer.
+      BMC Gastroenterol (2025)  PMID 40640712  doi:10.1186/s12876-025-04055-y
+
+ 639. The value and application of a poorly differentiated cluster-based Ezrin marginal score system in the prognostic assessment of colorectal cancer.
+      Discov Oncol (2025)  PMID 40825916  doi:10.1007/s12672-025-03211-w
+
+ 640. Tumor Bud Classification in Colorectal Cancer Using Attention-Based Deep Multiple Instance Learning and Domain-Specific Foundation Models.
+      Cancers (Basel) (2025)  PMID 40227783  doi:10.3390/cancers17071245
+
+ 641. Tumor budding and poorly differentiated clusters as a biological continuum in colorectal cancer invasion and prognosis.
+      Sci Rep (2025)  PMID 40374662  doi:10.1038/s41598-025-00866-x
+
+ 642. Tumor-associated macrophage expression in colorectal adenomas and carcinomas: relationship to Helicobacter pylori infection.
+      Front Oncol (2025)  PMID 41395618  doi:10.3389/fonc.2025.1649619
+
+ 643. Tumor-immune partitioning and clustering algorithm for identifying tumor-immune cell spatial interaction signatures within the tumor microenvironment.
+      PLoS Comput Biol (2025)  PMID 39965007  doi:10.1371/journal.pcbi.1012707
+
+ 644. Tumor-stroma ratio in colitis-associated colorectal cancer.
+      Ups J Med Sci (2025)  PMID 41503067  doi:10.48101/ujms.v130.13250
+
+ 645. Tumour-Infiltrating Lymphocytes, Tumour Cell Density, and Response to Neoadjuvant Short-Course Radiotherapy in Rectal Cancer: A Translational Sub-Study from the MRC CR07 Clinical Trial.
+      Cancers (Basel) (2025)  PMID 41008883  doi:10.3390/cancers17183040
+
+ 646. Using bioinformatics methods to elucidate fatty acid-binding protein 4 as a potential biomarker for colon adenocarcinoma.
+      World J Gastrointest Oncol (2025)  PMID 40235911  doi:10.4251/wjgo.v17.i4.103113
+
+ 647. Value of the combination of intraepithelial tumor-infiltrating lymphocyte density and the heterogeneity of density as a prognostic marker in stage III colorectal cancers.
+      Histol Histopathol (2025)  PMID 39775750  doi:10.14670/HH-18-864
+
+ 648. Virtual Tissue Microarrays for Validating Digital Biomarker Analysis in Colorectal Carcinoma.
+      Lab Invest (2025)  PMID 39894412  doi:10.1016/j.labinv.2025.104098
+
+ 649. stImage: a versatile framework for optimizing spatial transcriptomic analysis through customizable deep histology and location informed integration.
+      Brief Bioinform (2025)  PMID 40905789  doi:10.1093/bib/bbaf429
+
+ 650. 3D chemotaxis chip for investigating natural killer cell migration mechanisms.
+      Front Immunol (2026)  PMID 42661925  doi:10.3389/fimmu.2026.1762203
+
+ 651. A Cascade-Responsive AND-Logic-Activatable Nanoprobe for Intraoperative Fluorescence Imaging of Colorectal Cancer.
+      J Am Chem Soc (2026)  PMID 41985171  doi:10.1021/jacs.6c04349
+
+ 652. A Robust Immunohistochemistry-Based Classification for BRAF V600E-Mutant Colorectal Cancer With Clinical Implications.
+      Cancer Sci (2026)  PMID 41165126  doi:10.1111/cas.70231
+
+ 653. Accurately Predicting Cell Type Abundance from Spatial Histology Image Through HPCell.
+      Interdiscip Sci (2026)  PMID 40903657  doi:10.1007/s12539-025-00757-9
+
+ 654. Artificial Intelligence-Assisted Risk Stratification in Stage II Colorectal Cancer: Multi-Institutional Validation of Semantically Enhanced Deep Learning.
+      Gastroenterology (2026)  PMID 42521098  doi:10.1053/j.gastro.2026.07.009
+
+ 655. Artificial intelligence-based tumor-stroma ratio quantification reveals prognostic value and stromal-driven immunosuppression in colorectal cancer: an international validation study.
+      J Transl Med (2026)  PMID 41580788  doi:10.1186/s12967-026-07681-6
+
+ 656. Artificial intelligence-powered H&E-based quantification of spatial tumor-infiltrating lymphocyte distribution identifies prognostic immune niches in colorectal cancer.
+      Cancer Immunol Immunother (2026)  PMID 42082707  doi:10.1007/s00262-026-04409-9
+
+ 657. Assessing Tumour Budding in Lung Squamous Cell Carcinoma: A Comparative Analysis of Digital Whole-Slide Imaging and Light Microscopy.
+      Pathobiology (2026)  PMID 41284580  doi:10.1159/000549728
+
+ 658. Association of Combined MET/HGF Expression With the Colorectal Cancer Immune Microenvironment: An Integrated Immunohistochemical and Multi-Database Analysis.
+      Cancer Med (2026)  PMID 42638340  doi:10.1002/cam4.72214
+
+ 659. Association of baseline lower respiratory tract microbiota composition and bacterial load with the risk of PD-1/PD-L1 inhibitor-associated immune-related pneumonitis: A single-center prospective cohort study.
+      Acta Microbiol Immunol Hung (2026)  PMID 42054107  doi:10.1556/030.2026.02909
+
+ 660. Automated segmentation of lymph node metastases in colorectal cancer based on convolutional KAN.
+      Open Med (Wars) (2026)  PMID 42707962  doi:10.1515/med-2026-1469
+
+ 661. Automating tumor-stroma ratio quantification in colon cancer patients from the UNITED study.
+      ESMO Open (2026)  PMID 41468683  doi:10.1016/j.esmoop.2025.105934
+
+ 662. Background Liver Fibrosis as a Microenvironmental Risk Factor for Intrahepatic Recurrence in Colorectal Liver Metastases.
+      Ann Surg Oncol (2026)  PMID 41593272  doi:10.1245/s10434-025-19017-7
+
+ 663. Beyond Surgical Margins: Fully Mature Tertiary Lymphoid Structures (fmTLSs) Are Predictive Biomarkers for Local Recurrence in Primary Soft-Tissue Sarcomas.
+      Cancers (Basel) (2026)  PMID 42279277  doi:10.3390/cancers18111685
+
+ 664. CDX2 expression dynamics in tumor clusters: a morpho-molecular biomarker in rectal cancer pretreatment biopsies revealed by sequential immunofluorescence.
+      Sci Rep (2026)  PMID 41723209  doi:10.1038/s41598-026-40005-8
+
+ 665. CXCL5/CXCR2 Axis Related to Neutrophilic Inflammation in Ulcerative Colitis: A Comprehensive Analysis Integrating eQTL, pQTL, and Transcriptome Data.
+      Curr Med Chem (2026)  PMID 41582592  doi:10.2174/0109298673381624251020065846
+
+ 666. Causal Inference and Prognostic Modeling in Colorectal Cancer through Integration of Computational Pathology and Mendelian Randomization.
+      Ann Surg Oncol (2026)  PMID 41454195  doi:10.1245/s10434-025-18901-6
+
+ 667. CellViT++: Energy-efficient and adaptive cell segmentation and classification using foundation models.
+      Comput Methods Programs Biomed (2026)  PMID 41576779  doi:10.1016/j.cmpb.2025.109206
+
+ 668. Cigarette smoking and long-term incidence of colorectal cancer subclassified by tumor-infiltrating myeloid cells: A prospective cohort study.
+      Environ Pollut (2026)  PMID 42055208  doi:10.1016/j.envpol.2026.128220
+
+ 669. Combining tertiary lymphoid structures and tumor stroma percentage for predicting prognosis and chemotherapy benefits in stage II-III colorectal cancer.
+      BMC Cancer (2026)  PMID 42449338  doi:10.1186/s12885-026-16542-w
+
+ 670. Comprehensive analysis based on tertiary lymphoid structures and tumor budding predicts survival rates in colorectal cancer patients with synchronous liver metastases.
+      Front Immunol (2026)  PMID 42206052  doi:10.3389/fimmu.2026.1776493
+
+ 671. Construction of a Predictive Modelbased on Tertiary Lymphoid Structures on the Survival of Patients With Gastrointestinal Malignant Tumors.
+      APMIS (2026)  PMID 41844273  doi:10.1111/apm.70174
+
+ 672. Correlation of tumor-infiltrating lymphocyte spatial distribution patterns with HER2 expression status and prognostic significance in gastric adenocarcinoma: a retrospective study based on digital pathology.
+      Am J Cancer Res (2026)  PMID 42597493  doi:10.62347/PEJP1288
+
+ 673. Counterfactual Diffusion Models Provide Interpretable Explanations of Artificial Intelligence Models in Pathology.
+      Cancer Res (2026)  PMID 42308255  doi:10.1158/0008-5472.CAN-25-5645
+
+ 674. Cross-Propagative Graph Learning Reveals Spatial Tissue Domains in Multi-Modal Spatial Transcriptomics.
+      Small Methods (2026)  PMID 42438317  doi:10.1002/smtd.70851
+
+ 675. DFCE-KanT: predicting spatial gene expression from histology images via contrastive learning.
+      Bioinformatics (2026)  PMID 42421216  doi:10.1093/bioinformatics/btag502
+
+ 676. Deep learning based on CD3 histological slides for prediction of colon cancer outcome: analysis of three international stage III colon cancer cohorts.
+      Oncoimmunology (2026)  PMID 42100890  doi:10.1080/2162402X.2026.2668797
+
+ 677. Deep learning-based H&E-derived risk scores in colorectal cancer: associations with tumour morphology, biology, and predicted drug response.
+      J Pathol (2026)  PMID 41716034  doi:10.1002/path.70039
+
+ 678. Detection of collagen band-associated regions in H&E-stained colonic biopsies of collagenous colitis patients using superpixel-based feature extraction and neural network classification.
+      Diagn Pathol (2026)  PMID 41896924  doi:10.1186/s13000-026-01783-x
+
+ 679. DiffBulk: Enhancing Spatial Transcriptomic Prediction With Diffusion-Based Training.
+      IEEE Trans Med Imaging (2026)  PMID 42048193  doi:10.1109/TMI.2026.3688322
+
+ 680. Differences in T-cell Densities and Neighborhood Patterns in Human Colorectal Adenomas and Sessile Serrated Lesions.
+      Cancer Epidemiol Biomarkers Prev (2026)  PMID 42112839  doi:10.1158/1055-9965.EPI-26-0083
+
+ 681. Differences in T-cell counts and neighborhood patterns in human colorectal adenomas and sessile serrated lesions.
+      bioRxiv (2026)  PMID 41542578  doi:10.64898/2026.01.06.697786
+
+ 682. Differentiation of tumor budding grade in colon cancer using noise-optimized virtual monoenergetic image in dual-energy CT.
+      Abdom Radiol (NY) (2026)  PMID 41369899  doi:10.1007/s00261-025-05280-5
+
+ 683. Distance-based evaluation of tumor budding in colorectal cancer.
+      Virchows Arch (2026)  PMID 41790186  doi:10.1007/s00428-026-04471-9
+
+ 684. Distinct enteric nervous system pattern in obstructed defecation syndrome and slow-transit constipation: a controlled digital pathology study.
+      Int J Colorectal Dis (2026)  PMID 42547605  doi:10.1007/s00384-026-05209-4
+
+ 685. Distribution and prognostic value of T-cells in primary colorectal cancer and adjacent non-tumor mucosa in stage IV versus stage I-III patients.
+      Int J Cancer (2026)  PMID 41467618  doi:10.1002/ijc.70319
+
+ 686. Distribution and prognostic value of macrophages in colorectal cancer and adjacent mucosa in patient stages I-III vs IV.
+      World J Gastroenterol (2026)  PMID 41809451  doi:10.3748/wjg.v32.i10.115130
+
+ 687. Dual-layer Spectral Detector CT Quantitative Parameters for Predicting Tumor Budding Grade and Prognosis in Stage Ⅱ Colorectal Cancer.
+      Acad Radiol (2026)  PMID 42364966  doi:10.1016/j.acra.2026.06.006
+
+ 688. Dysmorphic neurons express markers of inhibitory glycinergic signaling in focal cortical dysplasia IIb.
+      Brain Pathol (2026)  PMID 40957662  doi:10.1111/bpa.70043
+
+ 689. E-Cadherin Immunohistochemical Expression in Gastrointestinal Adenocarcinomas and Its Association With Histological and Prognostic Parameters.
+      Cureus (2026)  PMID 41710815  doi:10.7759/cureus.101801
+
+ 690. EASDnet: Empowering human-centered evidence-based medicine through an evidence and attention-based spatial disparity network for discriminative colorectal cancer histopathological screening and attribution.
+      Pathol Res Pract (2026)  PMID 41764810  doi:10.1016/j.prp.2026.156418
+
+ 691. Encoding functional edges in graphs to model spatially varying relationships in the tumor microenvironment.
+      NPJ Artif Intell (2026)  PMID 41783808  doi:10.1038/s44387-026-00075-5
+
+ 692. Enhancing Super-Resolution Spatial Transcriptomics Data by Transfer Learning.
+      Adv Sci (Weinh) (2026)  PMID 42474135  doi:10.1002/advs.76601
+
+ 693. Explainable machine learning model for predicting early recurrence and distant metastasis after surgery in early-onset colorectal cancer.
+      Surgery (2026)  PMID 41402185  doi:10.1016/j.surg.2025.109973
+
+ 694. Features of macrophage marker CD68 expression in the colonic mucosa of patients with symptomatic uncomplicated diverticular disease and acute uncomplicated diverticulitis.
+      Pol Merkur Lekarski (2026)  PMID 42048513  doi:10.36740/Merkur202602121
+
+ 695. Foundation Model-Enabled Multimodal Deep Learning for Prognostic Prediction in Colorectal Cancer with Incomplete Modalities: A Multi-Institutional Retrospective Study.
+      Adv Sci (Weinh) (2026)  PMID 41556415  doi:10.1002/advs.202510931
+
+ 696. Foxp3+/CD4+ Cell Ratio in Primary Colorectal Cancer Predicts Opposite Prognoses Following Resection of Synchronous or Metachronous Liver Metastases.
+      Cancer Med (2026)  PMID 42216261  doi:10.1002/cam4.71989
+
+ 697. GenAR: Next-scale autoregressive generation for spatial gene expression prediction.
+      Med Image Anal (2026)  PMID 42503259  doi:10.1016/j.media.2026.104232
+
+ 698. Graphical and interactive spatial proteomics image analysis workflow.
+      GigaByte (2026)  PMID 42389189  doi:10.46471/gigabyte.186
+
+ 699. HER2 overexpression/amplification in colorectal cancer: spatial intratumoral heterogeneity as a key determinant of detection discordance and therapy response.
+      Virchows Arch (2026)  PMID 42507169  doi:10.1007/s00428-026-04655-3
+
+ 700. HESpotEx: a dual-stream deep learning framework for spot-level gene expression prediction from histological images.
+      Nat Comput Sci (2026)  PMID 42141326  doi:10.1038/s43588-026-00992-0
+
+ 701. HFFST: A Hierarchical Feature Fusion Algorithm for Spatial Gene Expression Prediction Using Histopathology Images.
+      IEEE Trans Comput Biol Bioinform (2026)  PMID 41591852  doi:10.1109/TCBBIO.2026.3658320
+
+ 702. HLA class I expression and tumor immune infiltration together shape colon cancer immune contexture.
+      Neoplasia (2026)  PMID 42685490  doi:10.1016/j.neo.2026.101357
+
+ 703. High intratumoral CD8 positive T cell infiltration associated with pathologic complete response after neoadjuvant immunotherapy in locally advanced colon cancer.
+      Discov Oncol (2026)  PMID 42215833  doi:10.1007/s12672-026-05320-6
+
+ 704. HistoSweep enables cellular-resolution tissue quality control for gigapixel images in digital pathology and spatial omics.
+      bioRxiv (2026)  PMID 41676712  doi:10.64898/2026.01.30.702675
+
+ 705. Histology-informed spatial domain identification through multi-view graph convolutional networks.
+      PLoS Comput Biol (2026)  PMID 42224211  doi:10.1371/journal.pcbi.1014281
+
+ 706. Identification of Methionine Metabolism-Driven Heterogeneous Subtypes in Colorectal Cancer and Their Associated Immune Microenvironment.
+      Asia Pac J Clin Oncol (2026)  PMID 42521983  doi:10.1111/ajco.70147
+
+ 707. Identifying Post-Surgical Recurrence Subtype of T1-Stage Colorectal Cancer by Machine Learning.
+      Digestion (2026)  PMID 41666137  doi:10.1159/000550959
+
+ 708. Identifying batch-integrated domains from spatial transcriptomics via graph autoencoder with contrastive learning based on cross-modality and data augmentation.
+      Brief Bioinform (2026)  PMID 42184117  doi:10.1093/bib/bbag248
+
+ 709. Img2Gene: Debiased Spatially Resolved Transcriptomics with Biological Context from Pathology Images.
+      IEEE J Biomed Health Inform (2026)  PMID 41945845  doi:10.1109/JBHI.2026.3681769
+
+ 710. Immune and stromal tumour biology associated with neoadjuvant radiotherapy response in locally advanced rectal cancer.
+      Br J Cancer (2026)  PMID 42613364  doi:10.1038/s41416-026-03575-y
+
+ 711. Immune profiling may improve risk stratification in early-stage colorectal carcinoma.
+      Hum Pathol (2026)  PMID 41290119  doi:10.1016/j.humpath.2025.105987
+
+ 712. Impact of TGF-β1 on tumor immune microenvironment and prognosis in colorectal liver oligometastasis.
+      Cancer Treat Res Commun (2026)  PMID 41386216  doi:10.1016/j.ctarc.2025.101059
+
+ 713. Impact of stromal maturity and proportion on prognosis and immune landscape in colorectal cancer.
+      Ann Med (2026)  PMID 41454575  doi:10.1080/07853890.2025.2606512
+
+ 714. Integrating histology and spatial transcriptomics via multimodal transformers and contrastive representation learning for accurate gene expression prediction.
+      J Biomed Inform (2026)  PMID 41763376  doi:10.1016/j.jbi.2026.105003
+
+ 715. Integrating histopathology and immune marker analysis for machine learning-based colorectal cancer prognostics.
+      Diagn Pathol (2026)  PMID 41731487  doi:10.1186/s13000-026-01754-2
+
+ 716. Integrative analysis of transcriptomic data reveals a predictive gene signature for chemoradiotherapy response in rectal cancer.
+      iScience (2026)  PMID 41550766  doi:10.1016/j.isci.2025.114455
+
+ 717. Integrative network pharmacology and machine learning identify potential targets of indole-3-lactic acid in colorectal cancer.
+      PLoS One (2026)  PMID 41801955  doi:10.1371/journal.pone.0344478
+
+ 718. Interplay Between p53 and Wnt/β-Catenin Signaling in Colorectal Cancer: Associations with Mismatch Repair Status, Tumor Microenvironment, and Clinicopathological Outcomes.
+      Curr Oncol (2026)  PMID 41892206  doi:10.3390/curroncol33030178
+
+ 719. Interrogating the immune landscape of microsatellite stable RAS-mutated colon cancer.
+      Mol Oncol (2026)  PMID 41733106  doi:10.1002/1878-0261.70225
+
+ 720. KAFSTExp: Kernel Adaptive Filtering With Nyström Approximation for Predicting Spatial Gene Expression From Histology Images.
+      IEEE J Biomed Health Inform (2026)  PMID 40758493  doi:10.1109/JBHI.2025.3595101
+
+ 721. Large-Scale Histological Image Dataset with Metadata for Colorectal Cancer Microenvironment.
+      Sci Data (2026)  PMID 41673045  doi:10.1038/s41597-026-06675-9
+
+ 722. Live-Cell Microscopy for quantitative analysis of CAR T Cell fratricide and immune synapse.
+      Methods Cell Biol (2026)  PMID 42177054  doi:10.1016/bs.mcb.2026.01.019
+
+ 723. Longitudinal validation of ENLIGHT, an AI predictor of immunotherapy response and resistance, in pan-cancer cohorts.
+      NPJ Precis Oncol (2026)  PMID 42298098  doi:10.1038/s41698-026-01520-z
+
+ 724. Lung Cancer Patients Display Increased Expression of Bovine Meat and Milk Factor (BMMF) Proteins in Peritumor Alveolar Macrophages.
+      Int J Cancer (2026)  PMID 42226376  doi:10.1002/ijc.70574
+
+ 725. MGCL-ST: multi-view graph contrastive learning for spatial transcriptomics imputation.
+      Genome Med (2026)  PMID 42237201  doi:10.1186/s13073-026-01683-1
+
+ 726. Macrophages restrict tumor immune infiltration by controlling collagen topography.
+      Sci Immunol (2026)  PMID 41860994  doi:10.1126/sciimmunol.adw8291
+
+ 727. Multi-Scale Mapping of Gene Expression from Whole-slide Images for Identifying Phenotype-Associated Subpopulations.
+      Adv Sci (Weinh) (2026)  PMID 41736695  doi:10.1002/advs.202521151
+
+ 728. Multimodal AI generates virtual population for tumor microenvironment modeling.
+      Cell (2026)  PMID 41371214  doi:10.1016/j.cell.2025.11.016
+
+ 729. Multiscale confidence quantification for virtual spatial transcriptomics with UTOPIA.
+      bioRxiv (2026)  PMID 41847009  doi:10.64898/2026.03.01.708850
+
+ 730. Mutation enrichment in targeted panels flags immunotherapy-responsive POLE-driven hypermutated microsatellite-stable colorectal cancers.
+      NPJ Precis Oncol (2026)  PMID 42399417  doi:10.1038/s41698-026-01572-1
+
+ 731. Myeloid-derived PD-L1 characterizes spatially organized immune architecture in colorectal cancer.
+      Front Immunol (2026)  PMID 41727448  doi:10.3389/fimmu.2026.1763068
+
+ 732. Optimized CNN framework with VGG19, EfficientNet, and Bayesian optimization for early colon cancer detection.
+      Sci Rep (2026)  PMID 41492074  doi:10.1038/s41598-025-34262-2
+
+ 733. PH2ST: Prompt-guided hypergraph learning for spatial transcriptomics prediction in whole slide images.
+      Med Image Anal (2026)  PMID 41775138  doi:10.1016/j.media.2026.104008
+
+ 734. PSSD: Progressive Spatial-Semantic Decoupling for flow-based gene expression prediction from histology images.
+      Bioinformatics (2026)  PMID 42572174  doi:10.1093/bioinformatics/btag598
+
+ 735. PathCLAST: pathway-augmented contrastive learning with attention for interpretable spatial transcriptomics.
+      Brief Bioinform (2026)  PMID 41627343  doi:10.1093/bib/bbag029
+
+ 736. Pixel2Gene enables histology-guided reconstruction and prediction of spatial gene expression.
+      bioRxiv (2026)  PMID 42124685  doi:10.64898/2026.02.21.707168
+
+ 737. Polarization of tumor-infiltrating macrophages predicts complete response to neoadjuvant treatment in patients with rectal cancer.
+      Oncoimmunology (2026)  PMID 41815020  doi:10.1080/2162402X.2026.2641261
+
+ 738. Predicting neuroblastoma prognosis using machine learning analysis of metabolism-related gene network perturbation.
+      BMC Pediatr (2026)  PMID 41588361  doi:10.1186/s12887-026-06512-3
+
+ 739. Prediction of microsatellite instability in colorectal cancer based on tissue phenotypes inferred from pathological whole slide images using self-distillation.
+      Pathol Res Pract (2026)  PMID 42546403  doi:10.1016/j.prp.2026.156637
+
+ 740. ProtoMTG: Prototypical Multi-Task Learning for the Generation of Multiple Stained Immunohistochemical Images.
+      IEEE Trans Med Imaging (2026)  PMID 41052165  doi:10.1109/TMI.2025.3618446
+
+ 741. Quantification of the tumor microenvironment and prognostic analysis in colorectal cancer based on CAMuTILS.
+      Artif Intell Med (2026)  PMID 42520374  doi:10.1016/j.artmed.2026.103498
+
+ 742. Quantitative Histology of Nonmetastatic Regional Lymph Nodes as a Novel Prognostic Indicator in Microsatellite Instability-High Colorectal Cancer.
+      Mod Pathol (2026)  PMID 41380849  doi:10.1016/j.modpat.2025.100948
+
+ 743. Quantitative analysis of myeloid cell patterns and immunosuppressive enzyme (IDO, ARG1) expression in colorectal cancer pulmonary metastases and corresponding primary tumours.
+      Sci Rep (2026)  PMID 41772041  doi:10.1038/s41598-026-42097-8
+
+ 744. Quantitative dot blot method for measuring EGFR protein levels in patients with colorectal cancer.
+      Biochem Biophys Rep (2026)  PMID 42729635  doi:10.1016/j.bbrep.2026.102756
+
+ 745. RAS mutation status and immune microenvironment define distinct prognostic landscapes and predict chemotherapy benefit in pMMR colorectal cancer.
+      Front Immunol (2026)  PMID 42183281  doi:10.3389/fimmu.2026.1798858
+
+ 746. RankByGene: Gene-Guided Histopathology Representation Learning Through Cross-Modal Ranking Consistency.
+      IEEE Trans Med Imaging (2026)  PMID 42627750  doi:10.1109/TMI.2026.3725898
+
+ 747. Region-of-interest histopathology with fine-tuned CNNs enables colorectal cancer grading and pathologic stage estimation.
+      Sci Rep (2026)  PMID 42399340  doi:10.1038/s41598-026-59815-x
+
+ 748. Relationship between nutritional indicators and clinicopathological factors, including immune cell densities in the tumor microenvironment, in patients with colorectal cancer.
+      Med Mol Morphol (2026)  PMID 41504903  doi:10.1007/s00795-025-00454-y
+
+ 749. ResSAT: enhancing spatial transcriptomics prediction from H&E-stained histology images with an interactive spot transformer.
+      Genome Biol (2026)  PMID 42363230  doi:10.1186/s13059-026-04168-x
+
+ 750. SHIELD: A weakly supervised graph attention neural network for decoding disease-relevant cell-cell interactions.
+      Patterns (N Y) (2026)  PMID 42453692  doi:10.1016/j.patter.2026.101562
+
+ 751. SNR-ST-Mix: sample-specific neighborhood regression mixup for augmented spatial transcriptomics imputation with deep neural network.
+      J Med Imaging (Bellingham) (2026)  PMID 42592113  doi:10.1117/1.JMI.13.4.047501
+
+ 752. SPADE: Spatial transcriptomics and pathology alignment using a mixture of data experts for an expressive latent space.
+      Med Image Anal (2026)  PMID 42442210  doi:10.1016/j.media.2026.104197
+
+ 753. STAG: Biologically guided spatial transcriptomics prediction via hypergraph learning.
+      Med Image Anal (2026)  PMID 42425050  doi:10.1016/j.media.2026.104206
+
+ 754. STORM: spatial transcriptomics optimization by resolution via matrix factorization.
+      Brief Bioinform (2026)  PMID 42328842  doi:10.1093/bib/bbag324
+
+ 755. Secondary follicle-like TLS as a protective factor in pMMR rectal cancer: insights into its regional distribution and prognostic value.
+      Gastroenterol Rep (Oxf) (2026)  PMID 41696442  doi:10.1093/gastro/goag002
+
+ 756. Semi-supervised learning for automated perineural invasion detection in multi-organ H&E whole slide images.
+      Bioinformatics (2026)  PMID 42635239  doi:10.1093/bioinformatics/btag461
+
+ 757. Shared molecular features and potential diagnostic biomarkers between ulcerative colitis and sarcopenia: an integrative bioinformatics analysis with preliminary experimental validation.
+      Front Immunol (2026)  PMID 42064059  doi:10.3389/fimmu.2026.1801914
+
+ 758. Single-section assessment of DNA mismatch repair using PMS2/MSH6 double immunohistochemistry.
+      Hum Pathol (2026)  PMID 42471063  doi:10.1016/j.humpath.2026.106215
+
+ 759. Single‑center weakly supervised deep learning prediction of KRAS, NRAS, BRAF, and HER2 status in colorectal cancer from histopathology images using internal cross‑validation.
+      Cancer Cell Int (2026)  PMID 41622176  doi:10.1186/s12935-026-04211-8
+
+ 760. SpaBiT: enhancing spatial transcriptomics resolution via bidirectional attention transformers.
+      Bioinformatics (2026)  PMID 42391614  doi:10.1093/bioinformatics/btag443
+
+ 761. SpaHE-Infil: A spatial heterogeneity framework for decoding TME infiltration from H&E-stained slides.
+      iScience (2026)  PMID 41971992  doi:10.1016/j.isci.2026.115155
+
+ 762. Spatial biomarker discovery via interpretable semantic learning in histopathology.
+      Cancer Cell (2026)  PMID 42276049  doi:10.1016/j.ccell.2026.05.014
+
+ 763. Spatial comparison and prognostic significance of macrophages in matched primary colorectal cancer and liver metastases: a retrospective study.
+      Sci Rep (2026)  PMID 42380192  doi:10.1038/s41598-026-59458-y
+
+ 764. Spatial transcriptomic landscape of invasion patterns in human papillomavirus-associated endocervical adenocarcinoma.
+      Sci Rep (2026)  PMID 41820442  doi:10.1038/s41598-026-43717-z
+
+ 765. Spatial transcriptomics expression prediction from histopathology based on cross-modal mask reconstruction and contrastive learning.
+      Med Image Anal (2026)  PMID 41330094  doi:10.1016/j.media.2025.103889
+
+ 766. Spread Through Air Spaces in Colorectal Lung Metastases Signals Local Recurrenece and Reflects Morphologic Aggressiveness of the Primary Tumor.
+      Pathol Int (2026)  PMID 41882809  doi:10.1111/pin.70107
+
+ 767. TIMEL: Deep learning-statistical integration reveals spatial stromal and immune signatures of aggressive colon cancer.
+      J Pathol Inform (2026)  PMID 42255201  doi:10.1016/j.jpi.2026.100672
+
+ 768. The Aberrant Activation of NLRP3 in Microsatellites Stability Colon Cancer Promotes M2 Macrophage Polarization Based on the TCGA Database and Tissue Microarray Analysis.
+      Cancer Rep (Hoboken) (2026)  PMID 41847892  doi:10.1002/cnr2.70470
+
+ 769. The interpretable multimodal dimension reduction framework SpaHDmap enhances resolution in spatial transcriptomics.
+      Nat Cell Biol (2026)  PMID 41495202  doi:10.1038/s41556-025-01838-z
+
+ 770. The prognostic significance of B7-H3 expression in patients with advanced colorectal cancer.
+      BMC Cancer (2026)  PMID 42249337  doi:10.1186/s12885-026-16300-y
+
+ 771. Transcriptomic profiling identifies immunotherapy-responsive phenotypes in microsatellite-stable metastatic colorectal cancer.
+      Oncogene (2026)  PMID 42298180  doi:10.1038/s41388-026-03861-2
+
+ 772. Trimodal, uncertainty-guided whole-slide framework for genome-scale spatial expression and image-only virtual perturbation in cancer cohorts.
+      Genome Med (2026)  PMID 42449400  doi:10.1186/s13073-026-01713-y
+
+ 773. Tumor vessel phenotype in colorectal cancer microenvironment according to age at diagnosis.
+      Br J Cancer (2026)  PMID 41882312  doi:10.1038/s41416-026-03373-6
+
+ 774. Tumor-Associated Fusobacterium nucleatum and Aggressive Architectural Features in Stage II Colorectal Cancer.
+      APMIS (2026)  PMID 42165143  doi:10.1111/apm.70225
+
+ 775. Tumor-Infiltrating Basophils Are Associated With Improved Prognosis in Colorectal Cancer.
+      Lab Invest (2026)  PMID 42425273  doi:10.1016/j.labinv.2026.106152
+
+ 776. Tumour cell density quantified by artificial intelligence is associated with differential benefit from irinotecan-based chemo-radiotherapy in locally advanced rectal cancer: a post-hoc study of the phase 3 ARISTOTLE trial.
+      EBioMedicine (2026)  PMID 42509089  doi:10.1016/j.ebiom.2026.106397
+
+ 777. Tumour deposits in colorectal carcinoma are associated with immune evasion and dose-dependent adverse prognosis beyond nodal status.
+      Br J Cancer (2026)  PMID 42286231  doi:10.1038/s41416-026-03498-8
+
+ 778. Unveiling the prognostic and therapeutic landscape of the zinc transporter protein SLC39A family in colorectal cancer through multi-omics and machine learning approaches.
+      Clin Exp Med (2026)  PMID 41863577  doi:10.1007/s10238-025-01996-2
+
+ 779. Whole-slide mapping of tumor tissue fiber architecture via computational scattered light imaging.
+      Biomed Opt Express (2026)  PMID 42145674  doi:10.1364/BOE.595972
+
+ 780. dMMR prediction from colorectal cancer histopathology: Leveraging non-tumor and low-magnification regions.
+      Comput Methods Programs Biomed (2026)  PMID 41875848  doi:10.1016/j.cmpb.2026.109317
+
+ 781. ecPICK: A deep learning-enabled spatial diagnostic platform for direct ecDNA identification and clinical prognosis across pan-cancer histopathology.
+      Theranostics (2026)  PMID 42244994  doi:10.7150/thno.134316
+
+ 782. geneSCOPE: gene spatial co-occurrence of pairwise expression.
+      Brief Bioinform (2026)  PMID 42289052  doi:10.1093/bib/bbag302
+
+ 783. privateST: a feasible framework for privacy-preserving spatial transcriptomics prediction from histopathology images.
+      Sci Rep (2026)  PMID 42236846  doi:10.1038/s41598-026-55961-4
+
+ 784. spatiAlytica: Viewer-Grounded Multimodal Agentic System for Interactive Spatial Omics Analysis.
+      bioRxiv (2026)  PMID 42146494  doi:10.64898/2026.04.29.721735
+
+ 785. stGCL: a versatile cross-modality fusion method based on multi-modal graph contrastive learning for spatial transcriptomics.
+      Genome Biol (2026)  PMID 41606649  doi:10.1186/s13059-025-03896-w
+

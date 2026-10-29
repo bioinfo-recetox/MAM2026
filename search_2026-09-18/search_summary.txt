@@ -1,0 +1,60 @@
+Reproducible literature search — summary
+===============================================================================
+Run date            : 2026-09-18
+Database            : PubMed (NCBI E-utilities)
+Date range in query : 2016-01-01 to 2026-12-31, English
+
+Stage 1 — search strands
+-------------------------------------------------------------------------------
+  S1_crc_tme_computational_pathology        2529 records
+  S2_crc_biomarker_quantification           6281 records
+  S3_pancancer_spatial_immune               1382 records
+  S4_spatial_omics_from_histology            349 records
+  UNION (deduplicated by PubMed)            9228 records
+
+Stage 3 — automated screening
+-------------------------------------------------------------------------------
+  Records entering screening                      9228
+    rejected by other_imaging_modality            1880   (sole reason: 76)
+    rejected by endoscopy_or_screening             532   (sole reason: 40)
+    rejected by liquid_biopsy_or_circulating      1260   (sole reason: 33)
+    rejected by quality_of_life_or_survey           62   (sole reason: 2)
+    rejected by preclinical_models                3456   (sole reason: 96)
+    rejected by other_organ_or_disease            1655   (sole reason: 60)
+    rejected by other_molecular_topic             1226   (sole reason: 93)
+    rejected by other_primary_tumour              1811   (sole reason: 46)
+    rejected by review_or_survey_language          542   (sole reason: 4)
+    rejected by wet_lab_assay                     4275   (sole reason: 194)
+    rejected by tissue_observation_required       3090   (sole reason: 388)
+    rejected by method_vocab_required              434   (sole reason: 19)
+    rejected by tme_vocab_required                3026   (sole reason: 248)
+    rejected by crc_or_st_method_required         2214   (sole reason: 59)
+    rejected by excluded_publication_type          817   (sole reason: 29)
+  Records removed (union of all rules)            8443
+  CANDIDATES FOR MANUAL SCREENING                  785
+
+Reference run by the authors
+-------------------------------------------------------------------------------
+  Date                              : 2026-07-28
+  Union records                     : None
+  Candidates after screening        : 785
+  Studies selected after full text  : 49
+
+PubMed grows continuously, so a later run is expected to return more
+records. The queries and the rules are fixed, so a difference in counts
+reflects database growth rather than a change of method.
+
+Stage 1 — full query strings
+===============================================================================
+
+S1_crc_tme_computational_pathology:
+(colorect*[tiab] OR colon*[tiab] OR rect*[tiab] OR CRC[tiab] OR "Colorectal Neoplasms"[MeSH]) AND (microenviron*[tiab] OR immune[tiab] OR lymphocyt*[tiab] OR lymphoid[tiab] OR "lymph node"[tiab] OR "lymph nodes"[tiab] OR strom*[tiab] OR fibroblast*[tiab] OR collagen[tiab] OR budding[tiab] OR eosinophil*[tiab] OR CD3[tiab] OR CD8[tiab] OR FOXP3[tiab] OR immunohistochem*[tiab] OR "T-cell"[tiab] OR "T cells"[tiab] OR "tumor infiltrating"[tiab] OR "tumour infiltrating"[tiab]) AND ("deep learning"[tiab] OR "machine learning"[tiab] OR "artificial intelligence"[tiab] OR AI[tiab] OR "computational pathology"[tiab] OR "digital pathology"[tiab] OR "whole slide"[tiab] OR neural[tiab]) AND ("2016/01/01"[dp] : "2026/12/31"[dp]) AND english[la]
+
+S2_crc_biomarker_quantification:
+(colorect*[tiab] OR colon*[tiab] OR rect*[tiab] OR CRC[tiab] OR "Colorectal Neoplasms"[MeSH]) AND (immunoscore[tiab] OR "tumor-stroma ratio"[tiab] OR "tumour-stroma ratio"[tiab] OR "tumor infiltrating"[tiab] OR "tumour infiltrating"[tiab] OR CD3[tiab] OR CD8[tiab] OR FOXP3[tiab] OR "PD-1"[tiab] OR immunohistochem*[tiab] OR "tumor budding"[tiab] OR "tumour budding"[tiab] OR collagen[tiab] OR "lymph node"[tiab] OR "lymph nodes"[tiab]) AND (("image analysis"[tiab] OR "digital image"[tiab] OR "digital pathology"[tiab] OR automat*[tiab] OR quantitat*[tiab] OR quantif*[tiab] OR algorithm*[tiab] OR stereolog*[tiab] OR "computer-assisted"[tiab]) OR ("deep learning"[tiab] OR "machine learning"[tiab] OR "artificial intelligence"[tiab] OR AI[tiab] OR neural[tiab] OR "computational pathology"[tiab] OR convolutional[tiab] OR "self-supervised"[tiab] OR "weakly supervised"[tiab])) AND ("2016/01/01"[dp] : "2026/12/31"[dp]) AND english[la]
+
+S3_pancancer_spatial_immune:
+("pan-cancer"[tiab] OR pancancer[tiab] OR "solid tumors"[tiab] OR "solid tumours"[tiab] OR "cancer types"[tiab] OR "multiple cancers"[tiab]) AND (CD8[tiab] OR "PD-1"[tiab] OR "tumor infiltrating"[tiab] OR "tumour infiltrating"[tiab] OR lymphocyt*[tiab] OR immune[tiab]) AND ("whole slide"[tiab] OR "deep learning"[tiab] OR "machine learning"[tiab] OR "artificial intelligence"[tiab] OR "image analysis"[tiab] OR "digital pathology"[tiab] OR quantitat*[tiab] OR immunoprofil*[tiab] OR "spatial heterogeneity"[tiab] OR "spatial patterns"[tiab]) AND ("2016/01/01"[dp] : "2026/12/31"[dp]) AND english[la]
+
+S4_spatial_omics_from_histology:
+("spatial transcriptomics"[tiab] OR "spatially resolved transcriptomics"[tiab]) AND (histolog*[tiab] OR histopatholog*[tiab] OR "H&E"[tiab] OR "whole slide"[tiab]) AND ("deep learning"[tiab] OR "machine learning"[tiab] OR "cross-modal"[tiab] OR "contrastive learning"[tiab] OR neural[tiab] OR predict*[tiab]) AND ("2016/01/01"[dp] : "2026/12/31"[dp]) AND english[la]

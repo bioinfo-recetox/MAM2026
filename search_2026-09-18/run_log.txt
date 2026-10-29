@@ -1,0 +1,34 @@
+[2026-09-18T13:57:35] Output directory: /home/vlad/ownCloud/Projects/MolAspectsMed-2026/v2/drafts/search_2026-09-18
+[2026-09-18T13:57:35] (install 'tqdm' for nicer progress bars; using the built-in one)
+[2026-09-18T13:57:35] Stage 1: running the search strands
+[2026-09-18T13:57:36]   S1_crc_tme_computational_pathology: 2529 records
+[2026-09-18T13:57:37]   S2_crc_biomarker_quantification: 6281 records
+[2026-09-18T13:57:38]   S3_pancancer_spatial_immune: 1382 records
+[2026-09-18T13:57:39]   S4_spatial_omics_from_histology: 349 records
+[2026-09-18T13:57:39] Stage 2: harvesting the union
+[2026-09-18T13:57:40] Union query returns 9228 records; downloading
+[2026-09-18T13:59:48]   wrote search_2026-09-18/union_records.csv (9228 records)
+[2026-09-18T13:59:48] Stage 3: applying the screening rules
+[2026-09-18T13:59:56]   other_imaging_modality: rejected 1880 (sole reason for 76)
+[2026-09-18T13:59:56]   endoscopy_or_screening: rejected 532 (sole reason for 40)
+[2026-09-18T13:59:56]   liquid_biopsy_or_circulating: rejected 1260 (sole reason for 33)
+[2026-09-18T13:59:56]   quality_of_life_or_survey: rejected 62 (sole reason for 2)
+[2026-09-18T13:59:56]   preclinical_models: rejected 3456 (sole reason for 96)
+[2026-09-18T13:59:56]   other_organ_or_disease: rejected 1655 (sole reason for 60)
+[2026-09-18T13:59:56]   other_molecular_topic: rejected 1226 (sole reason for 93)
+[2026-09-18T13:59:56]   other_primary_tumour: rejected 1811 (sole reason for 46)
+[2026-09-18T13:59:56]   review_or_survey_language: rejected 542 (sole reason for 4)
+[2026-09-18T13:59:56]   wet_lab_assay: rejected 4275 (sole reason for 194)
+[2026-09-18T13:59:56]   tissue_observation_required: rejected 3090 (sole reason for 388)
+[2026-09-18T13:59:56]   method_vocab_required: rejected 434 (sole reason for 19)
+[2026-09-18T13:59:56]   tme_vocab_required: rejected 3026 (sole reason for 248)
+[2026-09-18T13:59:56]   crc_or_st_method_required: rejected 2214 (sole reason for 59)
+[2026-09-18T13:59:56]   excluded_publication_type: rejected 817 (sole reason for 29)
+[2026-09-18T13:59:56] 
+[2026-09-18T13:59:56] Union records                 : 9228
+[2026-09-18T13:59:56] Removed by screening rules    : 8443
+[2026-09-18T13:59:56] CANDIDATES for manual review  : 785
+[2026-09-18T13:59:56] (authors' reference run: 785 candidates on 2026-07-28)
+[2026-09-18T13:59:56] 
+[2026-09-18T13:59:56] Main output: search_2026-09-18/candidate_records.csv
+[2026-09-18T13:59:56] Summary    : search_2026-09-18/search_summary.txt
